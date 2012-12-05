@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="88342" dealer_id="16" type="car">
+  <mark mark_id="68">Mercedes-Benz</mark>
+  <model model_id="1583">E-klasse T-mod. (S211)</model>
+  <year>2007</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="disel_turbo">дизель турбонаддув</type>
+    <volume unit="cm3">2198</volume>
+          <power unit="hp">170</power>
+          </engine>
+  <drive>
+    <type drive_type_id="rear">задний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="universal">универсал</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">107000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="820000">820000</value>
+          </price>
+  <pts_owner_count>нет</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>    <asr/>    <cruise_control/>    <trip_computer/>    <parktronic/>    <esp/>    <light_alloy_wheels/>          <sensors>
+        <rain/>        <light/>      </sensors>
+              <headlights>
+        <xenon/>        <washer/>      </headlights>
+              <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                <tinted/>      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>электропривод</driver_adjustment>
+                          <passanger_adjustment>электропривод</passanger_adjustment>
+              </seats>
+            <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>климат 2-зонный</climate_control>    <multimedia>CD+NAVI</multimedia>          <compartment>
+        <decoration>комбинированный</decoration>              </compartment>
+        <hatch/>          <description><![CDATA[Исполнение Avantgard. Без пробега по РФ из Германии. Полный комплект ключей. Штатное тягово-сцепное устройство (фаркоп). Оригинальный таможеный ПТС. Легкосплавные оригинальные диски R17. Выпуск с завода декабрь 2007 года. Эксплуатация с 2008 года. Проведена входная диагностика. Безаварийный автомобиль. Ни одного крашенного элемента. Отличное техническое состояние. Чистый не курящий и не протертый салон. Талон техосмотра до июня 2014 года.
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in. ]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="850418" file_name="5fe2ea1b338c107d45c84ca6f2820936.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/88342/thumbnail/5fe2ea1b338c107d45c84ca6f2820936.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/88342/original/5fe2ea1b338c107d45c84ca6f2820936.jpg</original>
+              </photo>
+          <photo photo_id="850419" file_name="883993dbe0e4267e88762083ee78cedc.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/88342/thumbnail/883993dbe0e4267e88762083ee78cedc.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/88342/original/883993dbe0e4267e88762083ee78cedc.jpg</original>
+              </photo>
+          <photo photo_id="850420" file_name="9eb6457cd49992cdffd85330f1d3decf.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/88342/thumbnail/9eb6457cd49992cdffd85330f1d3decf.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/88342/original/9eb6457cd49992cdffd85330f1d3decf.jpg</original>
+              </photo>
+          <photo photo_id="850421" file_name="6ed973f8cd2fd295f7fc1f1b485e4122.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/88342/thumbnail/6ed973f8cd2fd295f7fc1f1b485e4122.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/88342/original/6ed973f8cd2fd295f7fc1f1b485e4122.jpg</original>
+              </photo>
+          <photo photo_id="850422" file_name="9de5db030ad23462b54c633742aceecb.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/88342/thumbnail/9de5db030ad23462b54c633742aceecb.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/88342/original/9de5db030ad23462b54c633742aceecb.jpg</original>
+              </photo>
+          <photo photo_id="850423" file_name="8a24a847ce6b544adca7b56770515249.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/88342/thumbnail/8a24a847ce6b544adca7b56770515249.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/88342/original/8a24a847ce6b544adca7b56770515249.jpg</original>
+              </photo>
+          <photo photo_id="850424" file_name="71275fd12b18c181c3cb29db6b4758a2.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/88342/thumbnail/71275fd12b18c181c3cb29db6b4758a2.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/88342/original/71275fd12b18c181c3cb29db6b4758a2.jpg</original>
+              </photo>
+          <photo photo_id="850425" file_name="904c2a6018b8fcf4dbaa592b422da4a5.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/88342/thumbnail/904c2a6018b8fcf4dbaa592b422da4a5.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/88342/original/904c2a6018b8fcf4dbaa592b422da4a5.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-06-21</created_at>
+    <updated_at>2012-09-28</updated_at>
+    <expires_at>2012-10-28</expires_at>
+  </dates>
+</vehicle>
+</response>

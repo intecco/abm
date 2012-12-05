@@ -1,0 +1,114 @@
+/* --- FOR ALL PAGES --- */
+header {
+	height:120px;
+}
+.ml54 {
+	margin-left:54px !important;
+}
+
+.small-btn {
+	padding:3px 15px;
+}
+
+/* --- Header area---*/
+.quick-search {
+	margin-top:-33px;
+}
+
+nav ul{
+	height:25px;
+}
+
+/* --- Content area ---*/
+
+/* Paginator */
+.paginator ul a{
+	color:#2d2d2d;
+	text-decoration:none;
+	background:#dcdac5;
+	padding:0 5px;
+	margin:0 5px;
+}
+
+.search input[type="text"] {
+	line-height:1.7;
+}
+
+.search .btn {
+	left: -100px;
+	top: -1px;
+}
+
+.spare-categories a.current, .personal-data-selector a.current {
+	display:block;
+	height:36px;
+	padding-top:0;
+	padding-bottom:0;
+}
+
+.content .ml40 {
+	width:700px;
+}
+
+
+.bucket-html .select-city ul li.lc {
+	margin-bottom:0;
+}
+
+.edit-personal-data-html table td.lc {
+	font-size:1em;
+}
+
+.ask a {
+	margin-left:-15px;
+	display:block;
+	text-decoration:underline;
+	border-bottom:none;
+}
+
+.contacts-list li.lc {
+	margin-bottom:20px;
+	border-bottom:none;
+
+}
+
+/* --- Footer area ---*/
+
+.dev {
+	margin-top:-35px;
+}
+
+.filter .clean-filter
+{
+	margin-left: 560px;
+}
+
+.auto-filter table td.lc, .velo-filter table td.lc { 
+	background:none;
+}
+
+.simple-filter .number {
+	width:220px;
+}
+
+.consult-and-cab-widget .logout  {
+	top: 25px;
+}
+
+.consult-and-cab-widget .bucket-ico {
+left:20px
+}
+
+.quick-search {
+	left:640px;
+	margin-left:0;
+	margin-right:0;
+}
+
+.bucket-ico a {
+	line-height: 2 !important;
+}
+
+.consult-and-cab-widget .fullcart p  {
+	bottom: -20px !important;
+}

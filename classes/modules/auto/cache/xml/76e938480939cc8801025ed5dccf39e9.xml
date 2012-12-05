@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="70214" dealer_id="16" type="car">
+  <mark mark_id="60">Lexus</mark>
+  <model model_id="1352">RX II</model>
+  <year>2008</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">3456</volume>
+          <power unit="hp">276</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="blue" metallic="1">синий металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">103000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="1270000">1270000</value>
+          </price>
+  <pts_owner_count>два</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>    <asr/>    <cruise_control/>    <trip_computer/>    <parktronic/>    <esp/>    <light_alloy_wheels/>          <sensors>
+        <rain/>        <light/>      </sensors>
+              <headlights>
+        <xenon/>        <washer/>      </headlights>
+              <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                <tinted/>      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>с памятью</driver_adjustment>
+                          <passanger_adjustment>электропривод</passanger_adjustment>
+              </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>климат 2-зонный</climate_control>    <multimedia>CD+NAVI</multimedia>          <compartment>
+        <decoration>кожа</decoration>              </compartment>
+        <hatch/>          <description><![CDATA[Дилерский автомобиль. Покупался новым в Lexus центре Приморский в апреле 2008 года. Максимальная комплектация &quot;Premium +&quot;. Черный кожаный салон. Проведена входная диагностика, отличное техническое состояние, безаварийный автомобиль - ни одного крашенного элемента. Два комплекта колес на легкосплавных дисках (лето R18 на фото + зима R17 на оригинальных литых дисках). Дополнительно установлен имобилайзер MED + спутниковый охранный комплекс Cesar Satelite. Полный комплект ключей. Оригинальный таможенный ПТС (не дубликат).
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="772481" file_name="6e9e41754c0164d76549b45636b5145d.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/70214/thumbnail/6e9e41754c0164d76549b45636b5145d.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/70214/original/6e9e41754c0164d76549b45636b5145d.jpg</original>
+              </photo>
+          <photo photo_id="772482" file_name="adadfdac5bc661f042a17e67ce2b9f09.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/70214/thumbnail/adadfdac5bc661f042a17e67ce2b9f09.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/70214/original/adadfdac5bc661f042a17e67ce2b9f09.jpg</original>
+              </photo>
+          <photo photo_id="772483" file_name="1bb0c8dbb00dc236e011b4154b2da0f7.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/70214/thumbnail/1bb0c8dbb00dc236e011b4154b2da0f7.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/70214/original/1bb0c8dbb00dc236e011b4154b2da0f7.jpg</original>
+              </photo>
+          <photo photo_id="772485" file_name="37fde5301737905064e7371cdaadfd87.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/70214/thumbnail/37fde5301737905064e7371cdaadfd87.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/70214/original/37fde5301737905064e7371cdaadfd87.jpg</original>
+              </photo>
+          <photo photo_id="909275" file_name="ec3de80ec08fea277d424ff5500b553d.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/70214/thumbnail/ec3de80ec08fea277d424ff5500b553d.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/70214/original/ec3de80ec08fea277d424ff5500b553d.jpg</original>
+              </photo>
+          <photo photo_id="909276" file_name="368e5f801d0d7afabe20c7807a9ad8b4.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/70214/thumbnail/368e5f801d0d7afabe20c7807a9ad8b4.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/70214/original/368e5f801d0d7afabe20c7807a9ad8b4.jpg</original>
+              </photo>
+          <photo photo_id="909277" file_name="87f052dae8f099640fc6771837b4d51e.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/70214/thumbnail/87f052dae8f099640fc6771837b4d51e.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/70214/original/87f052dae8f099640fc6771837b4d51e.jpg</original>
+              </photo>
+          <photo photo_id="909278" file_name="2cf31472315dfedd5b9f73fd1a20ab49.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/70214/thumbnail/2cf31472315dfedd5b9f73fd1a20ab49.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/70214/original/2cf31472315dfedd5b9f73fd1a20ab49.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-02-22</created_at>
+    <updated_at>2012-10-02</updated_at>
+    <expires_at>2012-10-18</expires_at>
+  </dates>
+</vehicle>
+</response>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selection>
+	<target result="pages">
+		<type id="72" />
+	</target>
+	<property name="{1}" value="1" />
+	<sort>{2}</sort>
+	<limit page="{4}">{3}</limit>
+</selection>

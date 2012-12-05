@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="101348" dealer_id="16" type="car">
+  <mark mark_id="58">Land Rover</mark>
+  <model model_id="1320">Defender 110</model>
+  <year>2007</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="disel_turbo">дизель турбонаддув</type>
+    <volume unit="cm3">2402</volume>
+          <power unit="hp">122</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="manual">ручная</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="white" metallic="1">белый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">48000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="1125000">1125000</value>
+          </price>
+  <pts_owner_count>два</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>                        <light_alloy_wheels/>                      <windows>
+                  <power window_power_id="all">все</power>
+                      </windows>
+            <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>кондиционер</climate_control>    <multimedia>CD</multimedia>          <compartment>
+        <decoration>комбинированный</decoration>              </compartment>
+        <hatch/>          <description><![CDATA[Дилерский автомобиль. Покупался новым в &quot;АВТОБИОГРАФИИ&quot; в феврале 2008 года. Отличное техническое и внешнее состояние. Оригинальный таможенный ПТС. Дополнительно установлена электрическая лебедка. Обслуживание только у официального дилера. Сервисная книжка. Полный комплект ключей.
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10% 
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="976159" file_name="e9a4abdee7fbdf82ca8328a36400afeb.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101348/thumbnail/e9a4abdee7fbdf82ca8328a36400afeb.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/101348/original/e9a4abdee7fbdf82ca8328a36400afeb.jpg</original>
+              </photo>
+          <photo photo_id="976160" file_name="4c5fd3a987e2b79c30144fcf98b76fd2.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101348/thumbnail/4c5fd3a987e2b79c30144fcf98b76fd2.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/101348/original/4c5fd3a987e2b79c30144fcf98b76fd2.jpg</original>
+              </photo>
+          <photo photo_id="976161" file_name="d5b689e64dd2c95a5e98eebf80f5cde4.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101348/thumbnail/d5b689e64dd2c95a5e98eebf80f5cde4.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/101348/original/d5b689e64dd2c95a5e98eebf80f5cde4.jpg</original>
+              </photo>
+          <photo photo_id="976162" file_name="42e2d0ec3963830b7c2622d7a54c2bf7.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101348/thumbnail/42e2d0ec3963830b7c2622d7a54c2bf7.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/101348/original/42e2d0ec3963830b7c2622d7a54c2bf7.jpg</original>
+              </photo>
+          <photo photo_id="976163" file_name="229c07f3b32741f83fa82e7a1065bd8c.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101348/thumbnail/229c07f3b32741f83fa82e7a1065bd8c.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/101348/original/229c07f3b32741f83fa82e7a1065bd8c.jpg</original>
+              </photo>
+          <photo photo_id="976164" file_name="9bfed928bd0081e184c8a87dab89e078.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101348/thumbnail/9bfed928bd0081e184c8a87dab89e078.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/101348/original/9bfed928bd0081e184c8a87dab89e078.jpg</original>
+              </photo>
+          <photo photo_id="976165" file_name="a5114544eaeea4395a791ba6bdd1674f.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101348/thumbnail/a5114544eaeea4395a791ba6bdd1674f.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/101348/original/a5114544eaeea4395a791ba6bdd1674f.jpg</original>
+              </photo>
+          <photo photo_id="976166" file_name="ba610d237b3ada8641925227067d3f28.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101348/thumbnail/ba610d237b3ada8641925227067d3f28.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/101348/original/ba610d237b3ada8641925227067d3f28.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-09-12</created_at>
+    <updated_at>2012-10-09</updated_at>
+    <expires_at>2012-11-04</expires_at>
+  </dates>
+</vehicle>
+</response>

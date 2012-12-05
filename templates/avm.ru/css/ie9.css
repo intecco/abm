@@ -1,0 +1,15 @@
+.slideshow .images {
+	height:420px;
+}
+
+.slidetabs  {
+	bottom:75px;
+}
+
+.simple-filter .number label {
+vertical-align:top;
+}
+
+.filter table .middle-column  .mt10{
+margin-top:9px !important;
+}

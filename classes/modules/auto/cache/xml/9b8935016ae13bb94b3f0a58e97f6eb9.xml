@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="102273" dealer_id="16" type="car">
+  <mark mark_id="98">Ssang Yong</mark>
+  <model model_id="2339">Kyron</model>
+  <year>2008</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="disel_turbo">дизель турбонаддув</type>
+    <volume unit="cm3">1998</volume>
+          <power unit="hp">141</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">81000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="640000">640000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>    <asr/>    <cruise_control/>    <trip_computer/>            <light_alloy_wheels/>                  <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                <tinted/>      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>по высоте</driver_adjustment>
+                          <passanger_adjustment>по высоте</passanger_adjustment>
+              </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>климат 1-зонный</climate_control>    <multimedia>CD</multimedia>          <compartment>
+        <decoration>кожа</decoration>              </compartment>
+                  <description><![CDATA[Дилерский автомобиль. Покупался новым в Автоцентре &quot;Гриффин&quot; в июле 2008 года. Один владелец. бережная эксплуатация. Полный комплект ключей. Дополнительно установлена сигнализация с обратной связью, дополнительный имобилайзер SkyBrake и механическая защита на АКПП. Оригинальный заводской ПТС. Новая летняя резина. Комплект зимней резины.
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10% 
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="985339" file_name="fe5190ccf969700aa1d4e9cf2ada70be.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/102273/thumbnail/fe5190ccf969700aa1d4e9cf2ada70be.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/102273/original/fe5190ccf969700aa1d4e9cf2ada70be.jpg</original>
+              </photo>
+          <photo photo_id="985340" file_name="2a6c03e4c38087ea5c0fab5900109d80.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/102273/thumbnail/2a6c03e4c38087ea5c0fab5900109d80.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/102273/original/2a6c03e4c38087ea5c0fab5900109d80.jpg</original>
+              </photo>
+          <photo photo_id="985341" file_name="6fb0b31cf54111740e38c911e0a231f0.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/102273/thumbnail/6fb0b31cf54111740e38c911e0a231f0.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/102273/original/6fb0b31cf54111740e38c911e0a231f0.jpg</original>
+              </photo>
+          <photo photo_id="985342" file_name="38879bef72d80ea389c300cdfe23a187.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/102273/thumbnail/38879bef72d80ea389c300cdfe23a187.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/102273/original/38879bef72d80ea389c300cdfe23a187.jpg</original>
+              </photo>
+          <photo photo_id="985343" file_name="8d81b8cf2f64e5ed3862c78b9e1ef5bc.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/102273/thumbnail/8d81b8cf2f64e5ed3862c78b9e1ef5bc.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/102273/original/8d81b8cf2f64e5ed3862c78b9e1ef5bc.jpg</original>
+              </photo>
+          <photo photo_id="985344" file_name="5ddce043dea3796e353898cd2565e8fe.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/102273/thumbnail/5ddce043dea3796e353898cd2565e8fe.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/102273/original/5ddce043dea3796e353898cd2565e8fe.jpg</original>
+              </photo>
+          <photo photo_id="985345" file_name="b5c3e2bb121b3bac9871c3194bb2126b.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/102273/thumbnail/b5c3e2bb121b3bac9871c3194bb2126b.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/102273/original/b5c3e2bb121b3bac9871c3194bb2126b.jpg</original>
+              </photo>
+          <photo photo_id="985346" file_name="abaa8052f870f57f9cda169b5b0000f2.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/102273/thumbnail/abaa8052f870f57f9cda169b5b0000f2.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/102273/original/abaa8052f870f57f9cda169b5b0000f2.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-09-18</created_at>
+    <updated_at>2012-09-19</updated_at>
+    <expires_at>2012-10-18</expires_at>
+  </dates>
+</vehicle>
+</response>

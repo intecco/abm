@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="103381" dealer_id="16" type="car">
+  <mark mark_id="100">Suzuki</mark>
+  <model model_id="2439">Grand Vitara III</model>
+  <year>2007</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">1586</volume>
+          <power unit="hp">106</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="manual">ручная</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv3">внедорожник (3-х дв.)</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">82000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="530000">530000</value>
+          </price>
+  <pts_owner_count>два</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>    <asr/>        <trip_computer/>            <light_alloy_wheels/>          <sensors>
+        <rain/>              </sensors>
+                  <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                <tinted/>      </windows>
+              <seats>
+                          <driver_adjustment>по высоте</driver_adjustment>
+                      </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>климат 1-зонный</climate_control>    <multimedia>CD</multimedia>          <compartment>
+        <decoration>ткань</decoration>              </compartment>
+                  <description><![CDATA[Дилерский автомобиль. Покупался новым в декабре 2007 года. Один владелец.
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="995464" file_name="a9ae38a95110d375519fe9659236378a.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103381/thumbnail/a9ae38a95110d375519fe9659236378a.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103381/original/a9ae38a95110d375519fe9659236378a.jpg</original>
+              </photo>
+          <photo photo_id="995466" file_name="fa0697c26ae333da297fefcffad6a11f.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103381/thumbnail/fa0697c26ae333da297fefcffad6a11f.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103381/original/fa0697c26ae333da297fefcffad6a11f.jpg</original>
+              </photo>
+          <photo photo_id="995467" file_name="5c32c3516acc30062dcbef969471bc24.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103381/thumbnail/5c32c3516acc30062dcbef969471bc24.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103381/original/5c32c3516acc30062dcbef969471bc24.jpg</original>
+              </photo>
+          <photo photo_id="995469" file_name="2cbba8ffc746c330c1b19fcba115f6f6.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103381/thumbnail/2cbba8ffc746c330c1b19fcba115f6f6.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103381/original/2cbba8ffc746c330c1b19fcba115f6f6.jpg</original>
+              </photo>
+          <photo photo_id="995463" file_name="93f4d1977af77160de6f37709bb9fabc.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103381/thumbnail/93f4d1977af77160de6f37709bb9fabc.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103381/original/93f4d1977af77160de6f37709bb9fabc.jpg</original>
+              </photo>
+          <photo photo_id="995470" file_name="ff66672110d4ee29a1ad5d8d99465ef0.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103381/thumbnail/ff66672110d4ee29a1ad5d8d99465ef0.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103381/original/ff66672110d4ee29a1ad5d8d99465ef0.jpg</original>
+              </photo>
+          <photo photo_id="995473" file_name="f047b2f3066a814e8a7891a11f4fea67.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103381/thumbnail/f047b2f3066a814e8a7891a11f4fea67.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103381/original/f047b2f3066a814e8a7891a11f4fea67.jpg</original>
+              </photo>
+          <photo photo_id="995475" file_name="43e78460a13475f5fc96fe684b736e95.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103381/thumbnail/43e78460a13475f5fc96fe684b736e95.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103381/original/43e78460a13475f5fc96fe684b736e95.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-09-25</created_at>
+    <updated_at>2012-09-27</updated_at>
+    <expires_at>2012-10-25</expires_at>
+  </dates>
+</vehicle>
+</response>

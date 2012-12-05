@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="109523" dealer_id="16" type="car">
+  <mark mark_id="76">Nissan</mark>
+  <model model_id="1915">Note</model>
+  <year>2007</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">1598</volume>
+          <power unit="hp">110</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="hatchback5">хэтчбек (5-ти дв.)</type>
+    <color body_color_id="grey" metallic="1">серый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">59100</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="430000">430000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>                        <light_alloy_wheels/>                  <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>по высоте</driver_adjustment>
+                      </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>кондиционер</climate_control>    <multimedia>CD</multimedia>          <compartment>
+        <decoration>ткань</decoration>              </compartment>
+                  <description><![CDATA[Дилерский автомобиль. Покупался новым в автоцентре Аврора в январе 2008 года. Один владелец. Отличное техническое и внешнее состояние. Сервисная книжка. Полный комплект ключей. Оригинальный таможенный ПТС. Два комплекта резины (лето на авто + шипованная зима Bridgestone).
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="1053061" file_name="bf114fb3182f97bd380ac79840a1a121.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/109523/thumbnail/bf114fb3182f97bd380ac79840a1a121.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/109523/original/bf114fb3182f97bd380ac79840a1a121.jpg</original>
+              </photo>
+          <photo photo_id="1053062" file_name="6e33b9e41bb234550afc9db608a9501d.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/109523/thumbnail/6e33b9e41bb234550afc9db608a9501d.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/109523/original/6e33b9e41bb234550afc9db608a9501d.jpg</original>
+              </photo>
+          <photo photo_id="1053063" file_name="799b5b242a0dd52e06d9a805fb8c4037.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/109523/thumbnail/799b5b242a0dd52e06d9a805fb8c4037.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/109523/original/799b5b242a0dd52e06d9a805fb8c4037.jpg</original>
+              </photo>
+          <photo photo_id="1053064" file_name="12e9bf4ba19c575d147268f5790c9266.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/109523/thumbnail/12e9bf4ba19c575d147268f5790c9266.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/109523/original/12e9bf4ba19c575d147268f5790c9266.jpg</original>
+              </photo>
+          <photo photo_id="1053065" file_name="f7ac26a051fda869364fb124b32e7b64.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/109523/thumbnail/f7ac26a051fda869364fb124b32e7b64.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/109523/original/f7ac26a051fda869364fb124b32e7b64.jpg</original>
+              </photo>
+          <photo photo_id="1053066" file_name="4ac055b6defa6a5cf1974f4076b6053b.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/109523/thumbnail/4ac055b6defa6a5cf1974f4076b6053b.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/109523/original/4ac055b6defa6a5cf1974f4076b6053b.jpg</original>
+              </photo>
+          <photo photo_id="1053067" file_name="6f7fcc24e98bff0db03de171fd43c976.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/109523/thumbnail/6f7fcc24e98bff0db03de171fd43c976.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/109523/original/6f7fcc24e98bff0db03de171fd43c976.jpg</original>
+              </photo>
+          <photo photo_id="1053068" file_name="2a9a6a7af363f82d9541226b4f4d7aa6.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/109523/thumbnail/2a9a6a7af363f82d9541226b4f4d7aa6.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/109523/original/2a9a6a7af363f82d9541226b4f4d7aa6.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-10-25</created_at>
+    <updated_at>2012-10-25</updated_at>
+    <expires_at>2012-11-24</expires_at>
+  </dates>
+</vehicle>
+</response>

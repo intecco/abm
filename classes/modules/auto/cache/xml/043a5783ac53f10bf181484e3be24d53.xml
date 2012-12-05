@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="84957" dealer_id="16" type="car">
+  <mark mark_id="68">Mercedes-Benz</mark>
+  <model model_id="1601">CLS (C219)</model>
+  <year>2007</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="electric">электропривод</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">3498</volume>
+          <power unit="hp">272</power>
+          </engine>
+  <drive>
+    <type drive_type_id="rear">задний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="red" metallic="1">красный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">28000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="1450000">1450000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>    <asr/>    <cruise_control/>    <trip_computer/>    <parktronic/>    <esp/>    <light_alloy_wheels/>          <sensors>
+        <rain/>        <light/>      </sensors>
+              <headlights>
+        <xenon/>        <washer/>      </headlights>
+              <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>с памятью</driver_adjustment>
+                          <passanger_adjustment>электропривод</passanger_adjustment>
+              </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>климат 3-зонный</climate_control>    <multimedia>CD</multimedia>          <compartment>
+        <decoration>кожа</decoration>              </compartment>
+                  <description><![CDATA[Дилерский автомобиль. Покупался новым в &quot;Олимпе&quot; в августе 2007 года. Там же все сервисное обслуживание. Один владелец. Бережная эксплуатация. Хранение только в крытом паркинге. Полный комплект ключей. Дополнительно установлен спутниковый охранный комплекс Cesar Satelit. Сервисная книга. Обогрев всех кресел (включая задние). Вентиляция передних кресел. Раздельный 4-х зонный климат контроль. Электрическое закрывание багажной двери. Два комплекта резины R18 (шипованая зима + лето на фото).
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="816025" file_name="11b4ba337ebe9ae19e69449f4254803a.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/84957/thumbnail/11b4ba337ebe9ae19e69449f4254803a.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/84957/original/11b4ba337ebe9ae19e69449f4254803a.jpg</original>
+              </photo>
+          <photo photo_id="816026" file_name="5f7f788b3c581d2fb12ca88a4afb2842.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/84957/thumbnail/5f7f788b3c581d2fb12ca88a4afb2842.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/84957/original/5f7f788b3c581d2fb12ca88a4afb2842.jpg</original>
+              </photo>
+          <photo photo_id="816027" file_name="7c20e2b6b5c6adb336d8a65b59f2ddf1.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/84957/thumbnail/7c20e2b6b5c6adb336d8a65b59f2ddf1.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/84957/original/7c20e2b6b5c6adb336d8a65b59f2ddf1.jpg</original>
+              </photo>
+          <photo photo_id="816028" file_name="e1c9df3088317624acf40c969f76085c.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/84957/thumbnail/e1c9df3088317624acf40c969f76085c.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/84957/original/e1c9df3088317624acf40c969f76085c.jpg</original>
+              </photo>
+          <photo photo_id="816029" file_name="9f3cb25791378f5b98dbfeab4baad10c.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/84957/thumbnail/9f3cb25791378f5b98dbfeab4baad10c.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/84957/original/9f3cb25791378f5b98dbfeab4baad10c.jpg</original>
+              </photo>
+          <photo photo_id="816030" file_name="698735dd38d6d1f5a53266fd1ff4c8be.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/84957/thumbnail/698735dd38d6d1f5a53266fd1ff4c8be.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/84957/original/698735dd38d6d1f5a53266fd1ff4c8be.jpg</original>
+              </photo>
+          <photo photo_id="816031" file_name="e640100b4c8cb67a415ee1f230d29a66.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/84957/thumbnail/e640100b4c8cb67a415ee1f230d29a66.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/84957/original/e640100b4c8cb67a415ee1f230d29a66.jpg</original>
+              </photo>
+          <photo photo_id="816032" file_name="bc5dd0411f920a882b8812c5e40ce84a.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/84957/thumbnail/bc5dd0411f920a882b8812c5e40ce84a.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/84957/original/bc5dd0411f920a882b8812c5e40ce84a.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-05-31</created_at>
+    <updated_at>2012-10-16</updated_at>
+    <expires_at>2012-11-15</expires_at>
+  </dates>
+</vehicle>
+</response>

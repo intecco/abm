@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="103444" dealer_id="16" type="car">
+  <mark mark_id="105">Toyota</mark>
+  <model model_id="2475">Camry VI</model>
+  <year>2011</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">2398</volume>
+          <power unit="hp">167</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">2100</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="950000">950000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>    <asr/>    <cruise_control/>    <trip_computer/>    <parktronic/>    <esp/>    <light_alloy_wheels/>          <sensors>
+        <rain/>        <light/>      </sensors>
+                  <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>по высоте</driver_adjustment>
+                          <passanger_adjustment>по высоте</passanger_adjustment>
+              </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>климат 2-зонный</climate_control>    <multimedia>CD</multimedia>          <compartment>
+        <decoration>велюр</decoration>              </compartment>
+                  <description><![CDATA[Дилерский автомобиль. Оригинальный пробег. Сервисная книжка. Полный комплект ключей. Дополнительно установлен замок капота. Автомобиль покупался новым в ТОЙОТА центре Невский. Ни одного крашенного элемента. Оригинальный ПТС.
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="995967" file_name="e078f705d6a443dc6683272f66f0a9ff.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103444/thumbnail/e078f705d6a443dc6683272f66f0a9ff.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103444/original/e078f705d6a443dc6683272f66f0a9ff.jpg</original>
+              </photo>
+          <photo photo_id="995968" file_name="e8fc57f8971ecb38f80c6513c26feacb.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103444/thumbnail/e8fc57f8971ecb38f80c6513c26feacb.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103444/original/e8fc57f8971ecb38f80c6513c26feacb.jpg</original>
+              </photo>
+          <photo photo_id="995969" file_name="7e500ad3906ef6b37752d78786e07b1c.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103444/thumbnail/7e500ad3906ef6b37752d78786e07b1c.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103444/original/7e500ad3906ef6b37752d78786e07b1c.jpg</original>
+              </photo>
+          <photo photo_id="995970" file_name="9904f5642a378f53dbafa2f29ab928da.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103444/thumbnail/9904f5642a378f53dbafa2f29ab928da.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103444/original/9904f5642a378f53dbafa2f29ab928da.jpg</original>
+              </photo>
+          <photo photo_id="995971" file_name="c6487b51e15d838e30665f516f9ee435.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103444/thumbnail/c6487b51e15d838e30665f516f9ee435.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103444/original/c6487b51e15d838e30665f516f9ee435.jpg</original>
+              </photo>
+          <photo photo_id="995972" file_name="91df9d39083659b1f0dd6c91b8f1faf4.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103444/thumbnail/91df9d39083659b1f0dd6c91b8f1faf4.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103444/original/91df9d39083659b1f0dd6c91b8f1faf4.jpg</original>
+              </photo>
+          <photo photo_id="995973" file_name="a940a74a30f234032df33923935629b6.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103444/thumbnail/a940a74a30f234032df33923935629b6.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103444/original/a940a74a30f234032df33923935629b6.jpg</original>
+              </photo>
+          <photo photo_id="995966" file_name="d69a0a3e5c61dc6630675b5ffa1aa0be.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103444/thumbnail/d69a0a3e5c61dc6630675b5ffa1aa0be.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103444/original/d69a0a3e5c61dc6630675b5ffa1aa0be.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-09-25</created_at>
+    <updated_at>2012-09-27</updated_at>
+    <expires_at>2012-10-25</expires_at>
+  </dates>
+</vehicle>
+</response>

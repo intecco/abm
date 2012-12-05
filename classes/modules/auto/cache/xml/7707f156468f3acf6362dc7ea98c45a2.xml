@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="94109" dealer_id="16" type="car">
+  <mark mark_id="80">Peugeot</mark>
+  <model model_id="2048">207</model>
+  <year>2008</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">1598</volume>
+          <power unit="hp">120</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="hatchback5">хэтчбек (5-ти дв.)</type>
+    <color body_color_id="green" metallic="1">зеленый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">43000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="460000">460000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>            <trip_computer/>                              <mirrors>
+        <power/>              </mirrors>
+              <windows>
+                  <power window_power_id="front">передние</power>
+                      </windows>
+              <seats>
+                          <driver_adjustment>по высоте</driver_adjustment>
+                      </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>кондиционер</climate_control>    <multimedia>CD</multimedia>          <compartment>
+        <decoration>ткань</decoration>              </compartment>
+                  <description><![CDATA[Дилерский автомобиль. Покупался новым в Автоцентре Peugeot на Хасанской в сентябре 2008 года. Один владелец. Бережная эксплуатация. В машине не курили! Полное и своевременное ТО только у официального дилера Peugeot. Сервисная книжка. Безаварийный автомобиль. Ни одного крашеного элемента (включая пластик). Полный комплект ключей. Дополнительно установлена сигнализация с обратной связью + механическая защита на капот. Оригинальный таможенный ПТС. Словенская сборка. Два комплекта колес (Зима + лето).
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="906127" file_name="34cc92b17e2ec023ebbf4967849010ae.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/94109/thumbnail/34cc92b17e2ec023ebbf4967849010ae.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/94109/original/34cc92b17e2ec023ebbf4967849010ae.jpg</original>
+              </photo>
+          <photo photo_id="906128" file_name="80e01a3e5c27834565e37c9f69657683.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/94109/thumbnail/80e01a3e5c27834565e37c9f69657683.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/94109/original/80e01a3e5c27834565e37c9f69657683.jpg</original>
+              </photo>
+          <photo photo_id="906129" file_name="e673cb23399e272ec5531fb78ac0ee21.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/94109/thumbnail/e673cb23399e272ec5531fb78ac0ee21.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/94109/original/e673cb23399e272ec5531fb78ac0ee21.jpg</original>
+              </photo>
+          <photo photo_id="906130" file_name="48abebf9791bd0d7cb5bd9d1b0e5abae.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/94109/thumbnail/48abebf9791bd0d7cb5bd9d1b0e5abae.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/94109/original/48abebf9791bd0d7cb5bd9d1b0e5abae.jpg</original>
+              </photo>
+          <photo photo_id="906131" file_name="201468c45b5d0adee7e86bbb3c61ebea.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/94109/thumbnail/201468c45b5d0adee7e86bbb3c61ebea.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/94109/original/201468c45b5d0adee7e86bbb3c61ebea.jpg</original>
+              </photo>
+          <photo photo_id="906132" file_name="e795187546daa775039cb188622a1c85.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/94109/thumbnail/e795187546daa775039cb188622a1c85.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/94109/original/e795187546daa775039cb188622a1c85.jpg</original>
+              </photo>
+          <photo photo_id="906133" file_name="412a5142ffecb278c9ba431828c50bf1.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/94109/thumbnail/412a5142ffecb278c9ba431828c50bf1.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/94109/original/412a5142ffecb278c9ba431828c50bf1.jpg</original>
+              </photo>
+          <photo photo_id="906134" file_name="81d4670f6536f7e6d5642a48dcd70734.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/94109/thumbnail/81d4670f6536f7e6d5642a48dcd70734.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/94109/original/81d4670f6536f7e6d5642a48dcd70734.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-07-28</created_at>
+    <updated_at>2012-10-05</updated_at>
+    <expires_at>2012-11-04</expires_at>
+  </dates>
+</vehicle>
+</response>

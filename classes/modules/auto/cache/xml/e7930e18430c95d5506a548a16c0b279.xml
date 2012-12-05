@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicles">
+  <pager total="1" current="1" items_total="1" items_per_page="1000"/>
+  <search_form>
+
+  <list name="search[mark_id]"><option value="2">Acura</option><option value="9">Audi</option><option value="14">BMW</option><option value="22">Chevrolet</option><option value="24">Citroen</option><option value="37">Fiat</option><option value="45" selected="selected">Honda</option><option value="132">Hummer</option><option value="55">Kia</option><option value="58">Land Rover</option><option value="60">Lexus</option><option value="67">Mazda</option><option value="68">Mercedes-Benz</option><option value="73">Mitsubishi</option><option value="76">Nissan</option><option value="80">Peugeot</option><option value="97">Skoda</option><option value="98">Ssang Yong</option><option value="100">Suzuki</option><option value="105">Toyota</option><option value="112">Volkswagen</option><option value="113">Volvo</option></list>  <list name="search[model_id]"><optgroup label="Acura" mark_id="2"><option value="3323">MDX II</option></optgroup><optgroup label="Audi" mark_id="9"><option value="153">A8 (D3,4E)</option></optgroup><optgroup label="BMW" mark_id="14"><option value="211">X3 (E83)</option><option value="212">X5 (E53)</option></optgroup><optgroup label="Chevrolet" mark_id="22"><option value="426">Tahoe (GMT410)</option></optgroup><optgroup label="Citroen" mark_id="24"><option value="534">C4 Coupe</option></optgroup><optgroup label="Fiat" mark_id="37"><option value="734">Linea</option></optgroup><optgroup label="Honda" mark_id="45"><option value="1008" selected="selected">Accord VII</option></optgroup><optgroup label="Hummer" mark_id="132"><option value="1081">H3</option></optgroup><optgroup label="Kia" mark_id="55"><option value="3278">Cerato II</option></optgroup><optgroup label="Land Rover" mark_id="58"><option value="1320">Defender 110</option><option value="1330">Range Rover III</option></optgroup><optgroup label="Lexus" mark_id="60"><option value="1343">GX</option><option value="1352">RX II</option></optgroup><optgroup label="Mazda" mark_id="67"><option value="1532">RX-8</option></optgroup><optgroup label="Mercedes-Benz" mark_id="68"><option value="1601">CLS (C219)</option><option value="1578">E-klasse (W211)</option><option value="1583">E-klasse T-mod. (S211)</option><option value="1606">GL (X164)</option></optgroup><optgroup label="Mitsubishi" mark_id="73"><option value="1669">Outlander II(XL)</option></optgroup><optgroup label="Nissan" mark_id="76"><option value="1871">Primera (P12)</option><option value="1812">X-Trail II</option></optgroup><optgroup label="Peugeot" mark_id="80"><option value="2048">207</option><option value="3115">Partner II</option></optgroup><optgroup label="Skoda" mark_id="97"><option value="2306">Fabia II</option></optgroup><optgroup label="Ssang Yong" mark_id="98"><option value="2339">Kyron</option></optgroup><optgroup label="Suzuki" mark_id="100"><option value="2439">Grand Vitara III</option></optgroup><optgroup label="Toyota" mark_id="105"><option value="2475">Camry VI</option><option value="2502">Land Cruiser 200</option><option value="2706">RAV4 III</option></optgroup><optgroup label="Volkswagen" mark_id="112"><option value="2830">Passat (B6)</option></optgroup><optgroup label="Volvo" mark_id="113"><option value="2838">S60</option><option value="2872">XC90</option></optgroup></list>  <list name="search[year_id]"><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option></list>  <field name="search[year][from]" value="" size="4"/>
+  <field name="search[year][to]" value="" size="4"/>
+  <list name="search[steering_wheel]"><option value="left">левый</option><option value="right">правый</option></list>  <list name="search[engine_type]"><option value="petrol_injector">бензин инжектор</option><option value="petrol_carburator">бензин карбюратор</option><option value="petrol_rotor">бензин ротор</option><option value="petrol_compressor">бензин компрессор</option><option value="petrol_turbo">бензин турбонаддув</option><option value="petrol_hybrid">бензин гибрид</option><option value="disel">дизель</option><option value="disel_turbo">дизель турбонаддув</option></list>  <field size="5" name="search[engine_power][from]" value=""/>
+<field size="5" name="search[engine_power][to]" value=""/>  <list name="search[drive_type]"><option value="front">передний</option><option value="rear">задний</option><option value="optional_4wd">подключаемый полный</option><option value="full_4wd">постоянный полный</option></list>  <list name="search[gearbox_type]"><option value="automatic">автоматическая</option><option value="variator">вариатор</option><option value="robotized">роботизированная</option><option value="manual" selected="selected">ручная</option><option value="tiptronik">типтроник</option></list>  <list name="search[body_type]"><option value="suv3">внедорожник (3-х дв.)</option><option value="suv5">внедорожник (5-ти дв.)</option><option value="cabriolet">кабриолет</option><option value="coupe">купе</option><option value="long">лимузин</option><option value="minivan">минивэн</option><option value="pickup">пикап</option><option value="sedan">седан</option><option value="universal">универсал</option><option value="hatchback3">хэтчбек (3-х дв.)</option><option value="hatchback5">хэтчбек (5-ти дв.)</option></list>  <field size="7" name="search[distance][from]" value=""/>
+<field size="7" name="search[distance][to]" value=""/>  <field name="search[price][from]" value="" size="9"/>
+  <field name="search[price][to]" value="" size="9"/>
+  <list name="search[price][unit]"><option value="rub" selected="selected">руб.</option><option value="usd">$</option><option value="eur">€</option></list>
+  <list name="search[special_offer]"><option value="yes">Спец. предложение</option><option value="no">Без спец. предложения</option></list>  <list name="search[availability]"><option value="available">в наличии</option><option value="order">на заказ</option><option value="transit">в пути</option></list>  <list name="search[order_by]"><option value="date">дата</option><option value="name">название</option><option value="price">стоимость</option><option value="year">год</option><option value="distance">пробег</option></list>  <list name="search[order_direction]"><option value="asc">по возрастанию</option><option value="desc">по убыванию</option></list></search_form>
+    <vehicles>
+      <vehicle vehicle_id="105114" dealer_id="16" type="car">
+  <mark mark_id="45">Honda</mark>
+  <model model_id="1008">Accord VII</model>
+  <year>2003</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">1998</volume>
+          <power unit="hp">155</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="manual">ручная</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="grey" metallic="1">серый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">96000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="480000">480000</value>
+          </price>
+  <pts_owner_count>три или более</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="1012247" file_name="ccb95403e9698118c32b1632fd23aec0.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105114/thumbnail/ccb95403e9698118c32b1632fd23aec0.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-10-04</created_at>
+    <updated_at>2012-10-04</updated_at>
+    <expires_at>2012-11-03</expires_at>
+  </dates>
+</vehicle>
+    </vehicles>
+  </response>

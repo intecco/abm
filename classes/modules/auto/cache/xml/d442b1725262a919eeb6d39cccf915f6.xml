@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="108207" dealer_id="16" type="car">
+  <mark mark_id="68">Mercedes-Benz</mark>
+  <model model_id="1605">S-klasse (W221)</model>
+  <year>2007</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="electric">электропривод</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">4461</volume>
+          <power unit="hp">340</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="black">черный</color>
+  </body>
+  <mileage>
+    <value unit="km">100200</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="1700000">1700000</value>
+          </price>
+  <pts_owner_count>три или более</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>    <asr/>    <cruise_control/>    <trip_computer/>    <parktronic/>    <esp/>    <light_alloy_wheels/>          <sensors>
+        <rain/>        <light/>      </sensors>
+              <headlights>
+        <xenon/>        <washer/>      </headlights>
+              <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>с памятью</driver_adjustment>
+                          <passanger_adjustment>электропривод</passanger_adjustment>
+              </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>климат 3-зонный</climate_control>    <multimedia>CD+NAVI+TV</multimedia>          <compartment>
+        <decoration>кожа</decoration>              </compartment>
+        <hatch/>          <description><![CDATA[Дилерский автомобиль. Покупался новым в Москве в автоцентре АВИЛОН. AMG-пакет. Доводчики всех дверей. Отличное техническое и внешнее состояние. Установлен дополнительный имобилайзер SkyBrake. Полный комплект ключей.
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения.
+Минимальный пакет документов. Максимально быстрое рассмотрение заявки.
+
+Возможен зачет Вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="1040319" file_name="7d841af6c565152cd198b37b67f64b0d.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/108207/thumbnail/7d841af6c565152cd198b37b67f64b0d.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/108207/original/7d841af6c565152cd198b37b67f64b0d.jpg</original>
+              </photo>
+          <photo photo_id="1040320" file_name="bd450ef2a64bc27a29ad706f41709887.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/108207/thumbnail/bd450ef2a64bc27a29ad706f41709887.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/108207/original/bd450ef2a64bc27a29ad706f41709887.jpg</original>
+              </photo>
+          <photo photo_id="1040321" file_name="d502763a586fd44b758d91e3ca338537.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/108207/thumbnail/d502763a586fd44b758d91e3ca338537.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/108207/original/d502763a586fd44b758d91e3ca338537.jpg</original>
+              </photo>
+          <photo photo_id="1040322" file_name="5513325299a8aa888a87ac9092a052e2.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/108207/thumbnail/5513325299a8aa888a87ac9092a052e2.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/108207/original/5513325299a8aa888a87ac9092a052e2.jpg</original>
+              </photo>
+          <photo photo_id="1040323" file_name="3ec2cc4ea71f39a30271242e6df137d8.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/108207/thumbnail/3ec2cc4ea71f39a30271242e6df137d8.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/108207/original/3ec2cc4ea71f39a30271242e6df137d8.jpg</original>
+              </photo>
+          <photo photo_id="1040324" file_name="fd5af878d03f991751248693f01a1554.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/108207/thumbnail/fd5af878d03f991751248693f01a1554.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/108207/original/fd5af878d03f991751248693f01a1554.jpg</original>
+              </photo>
+          <photo photo_id="1040326" file_name="90061146293553696ba1cb156cf475ff.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/108207/thumbnail/90061146293553696ba1cb156cf475ff.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/108207/original/90061146293553696ba1cb156cf475ff.jpg</original>
+              </photo>
+          <photo photo_id="1040333" file_name="ae83b8c72ef238a2710aaa6554dee796.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/108207/thumbnail/ae83b8c72ef238a2710aaa6554dee796.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/108207/original/ae83b8c72ef238a2710aaa6554dee796.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-10-19</created_at>
+    <updated_at>2012-10-19</updated_at>
+    <expires_at>2012-11-18</expires_at>
+  </dates>
+</vehicle>
+</response>

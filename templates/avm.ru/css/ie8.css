@@ -1,0 +1,21 @@
+/* --- FOR ALL PAGES --- */
+.ml54 {
+	margin-left:54px !important;
+}
+
+/* --- Header area --- */
+/* --- Content area --- */
+
+.search input[type="text"] {
+	line-height:1.7;
+}
+
+/* --- Footer area --- */
+
+.simple-filter .number {
+	vertical-align:top;
+}
+
+.filter table .middle-column  .mt10{
+margin-top:9px !important;
+}

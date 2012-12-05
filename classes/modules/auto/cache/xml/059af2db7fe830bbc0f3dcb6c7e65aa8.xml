@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="103388" dealer_id="16" type="car">
+  <mark mark_id="113">Volvo</mark>
+  <model model_id="2872">XC90</model>
+  <year>2006</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">2521</volume>
+          <power unit="hp">210</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">189000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="840000">840000</value>
+          </price>
+  <pts_owner_count>два</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>    <asr/>    <cruise_control/>    <trip_computer/>    <parktronic/>    <esp/>    <light_alloy_wheels/>          <sensors>
+        <rain/>        <light/>      </sensors>
+              <headlights>
+        <xenon/>        <washer/>      </headlights>
+              <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                <tinted/>      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>по высоте</driver_adjustment>
+                          <passanger_adjustment>по высоте</passanger_adjustment>
+              </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>климат 2-зонный</climate_control>    <multimedia>CD</multimedia>          <compartment>
+        <decoration>кожа</decoration>              </compartment>
+        <hatch/>          <description><![CDATA[Дилерский автомобиль. Покупался новым в SWEEDMOBIL. Сервисная книжка. Обслуживание только у официального дилера. Полная сервисная история. Оригинальный таможенный ПТС. Полный комплект ключей. Два комплекта колес на литых дисках.
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="995489" file_name="1cf38b797f7760350de714649cc23950.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103388/thumbnail/1cf38b797f7760350de714649cc23950.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103388/original/1cf38b797f7760350de714649cc23950.jpg</original>
+              </photo>
+          <photo photo_id="995490" file_name="6900334986898c2c0fb78be1543b93fc.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103388/thumbnail/6900334986898c2c0fb78be1543b93fc.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103388/original/6900334986898c2c0fb78be1543b93fc.jpg</original>
+              </photo>
+          <photo photo_id="995491" file_name="447e1e99918a1b94be733c1c221faba7.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103388/thumbnail/447e1e99918a1b94be733c1c221faba7.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103388/original/447e1e99918a1b94be733c1c221faba7.jpg</original>
+              </photo>
+          <photo photo_id="995492" file_name="05f9bde184b5db71ca2b83154419f1e0.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103388/thumbnail/05f9bde184b5db71ca2b83154419f1e0.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103388/original/05f9bde184b5db71ca2b83154419f1e0.jpg</original>
+              </photo>
+          <photo photo_id="995493" file_name="5a64fe9fca528432cc281deb29382bbc.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103388/thumbnail/5a64fe9fca528432cc281deb29382bbc.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103388/original/5a64fe9fca528432cc281deb29382bbc.jpg</original>
+              </photo>
+          <photo photo_id="995494" file_name="6f6bb521d432d9421f186b651b29719e.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103388/thumbnail/6f6bb521d432d9421f186b651b29719e.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103388/original/6f6bb521d432d9421f186b651b29719e.jpg</original>
+              </photo>
+          <photo photo_id="995495" file_name="bf2ca2beca810ea6b509c1bf95b4ee8a.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103388/thumbnail/bf2ca2beca810ea6b509c1bf95b4ee8a.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103388/original/bf2ca2beca810ea6b509c1bf95b4ee8a.jpg</original>
+              </photo>
+          <photo photo_id="995507" file_name="627890276b6419c1338b9a01bd46c7d1.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103388/thumbnail/627890276b6419c1338b9a01bd46c7d1.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103388/original/627890276b6419c1338b9a01bd46c7d1.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-09-25</created_at>
+    <updated_at>2012-09-27</updated_at>
+    <expires_at>2012-10-25</expires_at>
+  </dates>
+</vehicle>
+</response>

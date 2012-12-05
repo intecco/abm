@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="74176" dealer_id="16" type="car">
+  <mark mark_id="37">Fiat</mark>
+  <model model_id="734">Linea</model>
+  <year>2011</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_turbo">бензин турбонаддув</type>
+    <volume unit="cm3">1368</volume>
+          <power unit="hp">120</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="manual">ручная</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="grey" metallic="1">серый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">28700</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="520000">520000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>            <trip_computer/>            <light_alloy_wheels/>                  <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>по высоте</driver_adjustment>
+                      </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="frontal">передние</airbag>    <climate_control>климат 1-зонный</climate_control>    <multimedia>CD</multimedia>          <compartment>
+        <decoration>велюр</decoration>              </compartment>
+                  <description><![CDATA[Дилерский автомобиль. Покупался новым в Санкт-Петербурге. Пройдено 1 ТО на отметке 15000 км. Сервисная книжка. Полный комплект ключей. Максимальная комплектация: велюровый салон, климат контроль, обогрев сидений, полный электро пакет. Дополнительно установлена сигнализация с обратной связью и турботаймером. Оригинальный ПТС (не дубликат). Автомобиль не кредитный, безаварийный.
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in.
+
+]]></description>
+        <inspection_place><![CDATA[Санкт- Петербург, пр. Маршала Блюхера, 12 , центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="701445" file_name="163d2938910d30bf540b3ac1854acb34.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/74176/thumbnail/163d2938910d30bf540b3ac1854acb34.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/74176/original/163d2938910d30bf540b3ac1854acb34.jpg</original>
+              </photo>
+          <photo photo_id="701446" file_name="6b4c12621f30549c11399088c6bb7a53.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/74176/thumbnail/6b4c12621f30549c11399088c6bb7a53.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/74176/original/6b4c12621f30549c11399088c6bb7a53.jpg</original>
+              </photo>
+          <photo photo_id="701447" file_name="1faf20aa56836a84445741aa2f54cefd.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/74176/thumbnail/1faf20aa56836a84445741aa2f54cefd.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/74176/original/1faf20aa56836a84445741aa2f54cefd.jpg</original>
+              </photo>
+          <photo photo_id="701448" file_name="750aacf00be7e1265f573d56b2111ddc.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/74176/thumbnail/750aacf00be7e1265f573d56b2111ddc.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/74176/original/750aacf00be7e1265f573d56b2111ddc.jpg</original>
+              </photo>
+          <photo photo_id="701449" file_name="e95df3ee825481e0a17a977c18895f7c.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/74176/thumbnail/e95df3ee825481e0a17a977c18895f7c.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/74176/original/e95df3ee825481e0a17a977c18895f7c.jpg</original>
+              </photo>
+          <photo photo_id="701450" file_name="35ef8b88f7d036c2ee1bddf3aa1e574a.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/74176/thumbnail/35ef8b88f7d036c2ee1bddf3aa1e574a.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/74176/original/35ef8b88f7d036c2ee1bddf3aa1e574a.jpg</original>
+              </photo>
+          <photo photo_id="701451" file_name="6a7dce2e8b4b20f87ded8c492a8edc91.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/74176/thumbnail/6a7dce2e8b4b20f87ded8c492a8edc91.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/74176/original/6a7dce2e8b4b20f87ded8c492a8edc91.jpg</original>
+              </photo>
+          <photo photo_id="701452" file_name="2fef7a3efe9992438242da774dcaac69.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/74176/thumbnail/2fef7a3efe9992438242da774dcaac69.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/74176/original/2fef7a3efe9992438242da774dcaac69.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-03-22</created_at>
+    <updated_at>2012-10-01</updated_at>
+    <expires_at>2012-10-31</expires_at>
+  </dates>
+</vehicle>
+</response>

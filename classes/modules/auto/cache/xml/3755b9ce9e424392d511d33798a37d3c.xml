@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="105115" dealer_id="16" type="car">
+  <mark mark_id="58">Land Rover</mark>
+  <model model_id="1330">Range Rover III</model>
+  <year>2003</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                    <heater/>
+            </steering_wheel>
+  <engine>
+    <type engine_type_id="disel_turbo">дизель турбонаддув</type>
+    <volume unit="cm3">2998</volume>
+          <power unit="hp">177</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="grey" metallic="1">серый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">220000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="860000">860000</value>
+          </price>
+  <pts_owner_count>три или более</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>    <asr/>    <cruise_control/>    <trip_computer/>    <parktronic/>    <esp/>    <light_alloy_wheels/>          <sensors>
+        <rain/>        <light/>      </sensors>
+              <headlights>
+        <xenon/>              </headlights>
+              <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                <tinted/>      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>электропривод</driver_adjustment>
+                          <passanger_adjustment>электропривод</passanger_adjustment>
+              </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>климат 2-зонный</climate_control>    <multimedia>CD+NAVI+TV</multimedia>          <compartment>
+        <decoration>кожа</decoration>              </compartment>
+                  <description><![CDATA[Европеец. Привезен из Германии в 2006 году. Оригинальный таможенный ПТС. Полный комплект ключей. Сервисная книжка.
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="1012170" file_name="1f2a1c286c5ddb32c9ced7dceaf63807.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105115/thumbnail/1f2a1c286c5ddb32c9ced7dceaf63807.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/105115/original/1f2a1c286c5ddb32c9ced7dceaf63807.jpg</original>
+              </photo>
+          <photo photo_id="1012171" file_name="e8dd7549746acd9ff20549c8686ee1df.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105115/thumbnail/e8dd7549746acd9ff20549c8686ee1df.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/105115/original/e8dd7549746acd9ff20549c8686ee1df.jpg</original>
+              </photo>
+          <photo photo_id="1012172" file_name="5f85976401d81ecee6a2711448266ac0.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105115/thumbnail/5f85976401d81ecee6a2711448266ac0.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/105115/original/5f85976401d81ecee6a2711448266ac0.jpg</original>
+              </photo>
+          <photo photo_id="1012173" file_name="785cba7a0d3bf56aa4b4af92d01e491a.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105115/thumbnail/785cba7a0d3bf56aa4b4af92d01e491a.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/105115/original/785cba7a0d3bf56aa4b4af92d01e491a.jpg</original>
+              </photo>
+          <photo photo_id="1012174" file_name="da4c8d1814099275643a44e9e4f3bdb0.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105115/thumbnail/da4c8d1814099275643a44e9e4f3bdb0.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/105115/original/da4c8d1814099275643a44e9e4f3bdb0.jpg</original>
+              </photo>
+          <photo photo_id="1012175" file_name="bede890b02d8ff5d60f96633680dd3da.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105115/thumbnail/bede890b02d8ff5d60f96633680dd3da.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/105115/original/bede890b02d8ff5d60f96633680dd3da.jpg</original>
+              </photo>
+          <photo photo_id="1012176" file_name="50cc5b922290073239ef682e38e74298.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105115/thumbnail/50cc5b922290073239ef682e38e74298.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/105115/original/50cc5b922290073239ef682e38e74298.jpg</original>
+              </photo>
+          <photo photo_id="1012177" file_name="966506528203577e8043efcaa1a09a9c.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105115/thumbnail/966506528203577e8043efcaa1a09a9c.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/105115/original/966506528203577e8043efcaa1a09a9c.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-10-04</created_at>
+    <updated_at>2012-10-04</updated_at>
+    <expires_at>2012-11-03</expires_at>
+  </dates>
+</vehicle>
+</response>

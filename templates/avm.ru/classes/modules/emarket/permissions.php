@@ -1,0 +1,1 @@
+<?php $permissions = array('purchasing' => array('toggleCompareList','checkIsInCompareList','printCompareTable','customPurchasing', 'deliveryList'));?>

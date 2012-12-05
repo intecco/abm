@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="105114" dealer_id="16" type="car">
+  <mark mark_id="45">Honda</mark>
+  <model model_id="1008">Accord VII</model>
+  <year>2003</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">1998</volume>
+          <power unit="hp">155</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="manual">ручная</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="grey" metallic="1">серый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">96000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="480000">480000</value>
+          </price>
+  <pts_owner_count>три или более</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>    <asr/>    <cruise_control/>    <trip_computer/>            <light_alloy_wheels/>          <sensors>
+        <rain/>        <light/>      </sensors>
+                  <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                <tinted/>      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>по высоте</driver_adjustment>
+                      </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>                  <compartment>
+        <decoration>кожа</decoration>              </compartment>
+                  <description><![CDATA[Европейский автомобиль. Привозился из Франции в 2006 году. 3 владельца. Хорошее техническое и внешнее состояние. Полный комплект ключей. Оригинальный таможенный ПТС. Дополнительно установлена механическая защита на КПП + сигнализация с обратной связью. Почти новая летняя резина на легкосплавных дисках R16.
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="1012247" file_name="ccb95403e9698118c32b1632fd23aec0.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105114/thumbnail/ccb95403e9698118c32b1632fd23aec0.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/105114/original/ccb95403e9698118c32b1632fd23aec0.jpg</original>
+              </photo>
+          <photo photo_id="1012248" file_name="2be281bd6539772c9892f4819735e3e8.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105114/thumbnail/2be281bd6539772c9892f4819735e3e8.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/105114/original/2be281bd6539772c9892f4819735e3e8.jpg</original>
+              </photo>
+          <photo photo_id="1012249" file_name="6fc87b9fdfeb509853ec17ad1b249b28.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105114/thumbnail/6fc87b9fdfeb509853ec17ad1b249b28.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/105114/original/6fc87b9fdfeb509853ec17ad1b249b28.jpg</original>
+              </photo>
+          <photo photo_id="1012250" file_name="c123e58d04ba4b8338c78cb1c981d78f.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105114/thumbnail/c123e58d04ba4b8338c78cb1c981d78f.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/105114/original/c123e58d04ba4b8338c78cb1c981d78f.jpg</original>
+              </photo>
+          <photo photo_id="1012251" file_name="6812748a30ed7dbfb186a048fb8974ec.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105114/thumbnail/6812748a30ed7dbfb186a048fb8974ec.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/105114/original/6812748a30ed7dbfb186a048fb8974ec.jpg</original>
+              </photo>
+          <photo photo_id="1012252" file_name="2822fab28203e30e406675b2582b1dce.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105114/thumbnail/2822fab28203e30e406675b2582b1dce.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/105114/original/2822fab28203e30e406675b2582b1dce.jpg</original>
+              </photo>
+          <photo photo_id="1012253" file_name="73c661901804a28fcf6ed8b41396b019.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105114/thumbnail/73c661901804a28fcf6ed8b41396b019.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/105114/original/73c661901804a28fcf6ed8b41396b019.jpg</original>
+              </photo>
+          <photo photo_id="1012254" file_name="dbe5ee08b67eacadbfbfbc8362b1370f.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105114/thumbnail/dbe5ee08b67eacadbfbfbc8362b1370f.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/105114/original/dbe5ee08b67eacadbfbfbc8362b1370f.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-10-04</created_at>
+    <updated_at>2012-10-04</updated_at>
+    <expires_at>2012-11-03</expires_at>
+  </dates>
+</vehicle>
+</response>

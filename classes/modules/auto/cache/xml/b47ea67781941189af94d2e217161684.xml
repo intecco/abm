@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="49231" dealer_id="16" type="car">
+  <mark mark_id="68">Mercedes-Benz</mark>
+  <model model_id="1578">E-klasse (W211)</model>
+  <year>2002</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">3197</volume>
+          <power unit="hp">224</power>
+          </engine>
+  <drive>
+    <type drive_type_id="rear">задний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="silver" metallic="1">серебристый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">187000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="570000">570000</value>
+          </price>
+  <pts_owner_count>три или более</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>    <asr/>    <cruise_control/>    <trip_computer/>    <parktronic/>    <esp/>    <light_alloy_wheels/>          <sensors>
+        <rain/>        <light/>      </sensors>
+              <headlights>
+        <xenon/>              </headlights>
+              <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                <tinted/>      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>с памятью</driver_adjustment>
+                          <passanger_adjustment>электропривод</passanger_adjustment>
+              </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>климат 3-зонный</climate_control>    <multimedia>CD+NAVI</multimedia>          <compartment>
+        <decoration>кожа</decoration>              </compartment>
+        <hatch/>          <description><![CDATA[Европеец. В РФ с 2005 года. Исполнение Elegance. Кожаный салон. Память водительского и пассажирского сиденья. Штатная навигационная система. Хорошее техническое состояние. Безаварийный автомобиль. Полный комплект ключей. Оригинальный таможеный ПТС. Дополнительно установлен задний парктроник. 
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения. 
+Минимальный пакет документов. Максимально быстрое рассмотрение заявки.
+
+Возможен зачет Вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="449714" file_name="8c73ee63b01de77e6787e5dc17d2c345.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/49231/thumbnail/8c73ee63b01de77e6787e5dc17d2c345.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/49231/original/8c73ee63b01de77e6787e5dc17d2c345.jpg</original>
+              </photo>
+          <photo photo_id="449715" file_name="7a1fe326db0ef2addd19ff996418f608.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/49231/thumbnail/7a1fe326db0ef2addd19ff996418f608.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/49231/original/7a1fe326db0ef2addd19ff996418f608.jpg</original>
+              </photo>
+          <photo photo_id="449716" file_name="64a5dcbc60dc6bf20923786d8317a88f.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/49231/thumbnail/64a5dcbc60dc6bf20923786d8317a88f.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/49231/original/64a5dcbc60dc6bf20923786d8317a88f.jpg</original>
+              </photo>
+          <photo photo_id="449717" file_name="47006a04d8566674f586fc80768a805f.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/49231/thumbnail/47006a04d8566674f586fc80768a805f.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/49231/original/47006a04d8566674f586fc80768a805f.jpg</original>
+              </photo>
+          <photo photo_id="449718" file_name="1e2aade189c445b6a1499ba6b1bdb044.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/49231/thumbnail/1e2aade189c445b6a1499ba6b1bdb044.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/49231/original/1e2aade189c445b6a1499ba6b1bdb044.jpg</original>
+              </photo>
+          <photo photo_id="449719" file_name="1cbf0cf6c6b28eee2bf8d9d4348b60d9.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/49231/thumbnail/1cbf0cf6c6b28eee2bf8d9d4348b60d9.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/49231/original/1cbf0cf6c6b28eee2bf8d9d4348b60d9.jpg</original>
+              </photo>
+          <photo photo_id="449720" file_name="e80c251e9ff5464bbcb24ced0327d69a.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/49231/thumbnail/e80c251e9ff5464bbcb24ced0327d69a.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/49231/original/e80c251e9ff5464bbcb24ced0327d69a.jpg</original>
+              </photo>
+          <photo photo_id="449721" file_name="12db62d67347f27a068d0342368daf67.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/49231/thumbnail/12db62d67347f27a068d0342368daf67.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/49231/original/12db62d67347f27a068d0342368daf67.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2011-08-29</created_at>
+    <updated_at>2012-10-01</updated_at>
+    <expires_at>2012-10-25</expires_at>
+  </dates>
+</vehicle>
+</response>

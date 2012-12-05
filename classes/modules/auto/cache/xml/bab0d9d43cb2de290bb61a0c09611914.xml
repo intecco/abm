@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicles">
+  <pager total="1" current="1" items_total="31" items_per_page="1000"/>
+  <search_form>
+
+  <list name="search[mark_id]"><option value="2">Acura</option><option value="9">Audi</option><option value="14">BMW</option><option value="22">Chevrolet</option><option value="24">Citroen</option><option value="37">Fiat</option><option value="45">Honda</option><option value="132">Hummer</option><option value="55">Kia</option><option value="58">Land Rover</option><option value="60">Lexus</option><option value="67">Mazda</option><option value="68">Mercedes-Benz</option><option value="73">Mitsubishi</option><option value="76">Nissan</option><option value="80">Peugeot</option><option value="97">Skoda</option><option value="98">Ssang Yong</option><option value="100">Suzuki</option><option value="105">Toyota</option><option value="112">Volkswagen</option><option value="113">Volvo</option></list>  <list name="search[model_id]"><optgroup label="Acura" mark_id="2"><option value="3323">MDX II</option></optgroup><optgroup label="Audi" mark_id="9"><option value="153">A8 (D3,4E)</option></optgroup><optgroup label="BMW" mark_id="14"><option value="211">X3 (E83)</option><option value="212">X5 (E53)</option></optgroup><optgroup label="Chevrolet" mark_id="22"><option value="426">Tahoe (GMT410)</option></optgroup><optgroup label="Citroen" mark_id="24"><option value="534">C4 Coupe</option></optgroup><optgroup label="Fiat" mark_id="37"><option value="734">Linea</option></optgroup><optgroup label="Honda" mark_id="45"><option value="1008">Accord VII</option></optgroup><optgroup label="Hummer" mark_id="132"><option value="1081">H3</option></optgroup><optgroup label="Kia" mark_id="55"><option value="3278">Cerato II</option></optgroup><optgroup label="Land Rover" mark_id="58"><option value="1320">Defender 110</option><option value="1330">Range Rover III</option></optgroup><optgroup label="Lexus" mark_id="60"><option value="1343">GX</option><option value="1352">RX II</option></optgroup><optgroup label="Mazda" mark_id="67"><option value="1532">RX-8</option></optgroup><optgroup label="Mercedes-Benz" mark_id="68"><option value="1601">CLS (C219)</option><option value="1578">E-klasse (W211)</option><option value="1583">E-klasse T-mod. (S211)</option><option value="1606">GL (X164)</option></optgroup><optgroup label="Mitsubishi" mark_id="73"><option value="1669">Outlander II(XL)</option></optgroup><optgroup label="Nissan" mark_id="76"><option value="1871">Primera (P12)</option><option value="1812">X-Trail II</option></optgroup><optgroup label="Peugeot" mark_id="80"><option value="2048">207</option><option value="3115">Partner II</option></optgroup><optgroup label="Skoda" mark_id="97"><option value="2306">Fabia II</option></optgroup><optgroup label="Ssang Yong" mark_id="98"><option value="2339">Kyron</option></optgroup><optgroup label="Suzuki" mark_id="100"><option value="2439">Grand Vitara III</option></optgroup><optgroup label="Toyota" mark_id="105"><option value="2475">Camry VI</option><option value="2502">Land Cruiser 200</option><option value="2706">RAV4 III</option></optgroup><optgroup label="Volkswagen" mark_id="112"><option value="2830">Passat (B6)</option></optgroup><optgroup label="Volvo" mark_id="113"><option value="2838">S60</option><option value="2872">XC90</option></optgroup></list>  <list name="search[year_id]"><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option></list>  <field name="search[year][from]" value="" size="4"/>
+  <field name="search[year][to]" value="" size="4"/>
+  <list name="search[steering_wheel]"><option value="left">левый</option><option value="right">правый</option></list>  <list name="search[engine_type]"><option value="petrol_injector">бензин инжектор</option><option value="petrol_carburator">бензин карбюратор</option><option value="petrol_rotor">бензин ротор</option><option value="petrol_compressor">бензин компрессор</option><option value="petrol_turbo">бензин турбонаддув</option><option value="petrol_hybrid">бензин гибрид</option><option value="disel">дизель</option><option value="disel_turbo">дизель турбонаддув</option></list>  <field size="5" name="search[engine_power][from]" value=""/>
+<field size="5" name="search[engine_power][to]" value=""/>  <list name="search[drive_type]"><option value="front">передний</option><option value="rear">задний</option><option value="optional_4wd">подключаемый полный</option><option value="full_4wd">постоянный полный</option></list>  <list name="search[gearbox_type]"><option value="automatic" selected="selected">автоматическая</option><option value="variator">вариатор</option><option value="robotized">роботизированная</option><option value="manual">ручная</option><option value="tiptronik">типтроник</option></list>  <list name="search[body_type]"><option value="suv3">внедорожник (3-х дв.)</option><option value="suv5">внедорожник (5-ти дв.)</option><option value="cabriolet">кабриолет</option><option value="coupe">купе</option><option value="long">лимузин</option><option value="minivan">минивэн</option><option value="pickup">пикап</option><option value="sedan">седан</option><option value="universal">универсал</option><option value="hatchback3">хэтчбек (3-х дв.)</option><option value="hatchback5">хэтчбек (5-ти дв.)</option></list>  <field size="7" name="search[distance][from]" value=""/>
+<field size="7" name="search[distance][to]" value=""/>  <field name="search[price][from]" value="" size="9"/>
+  <field name="search[price][to]" value="" size="9"/>
+  <list name="search[price][unit]"><option value="rub" selected="selected">руб.</option><option value="usd">$</option><option value="eur">€</option></list>
+  <list name="search[special_offer]"><option value="yes">Спец. предложение</option><option value="no">Без спец. предложения</option></list>  <list name="search[availability]"><option value="available">в наличии</option><option value="order">на заказ</option><option value="transit">в пути</option></list>  <list name="search[order_by]"><option value="date">дата</option><option value="name">название</option><option value="price">стоимость</option><option value="year">год</option><option value="distance">пробег</option></list>  <list name="search[order_direction]"><option value="asc">по возрастанию</option><option value="desc">по убыванию</option></list></search_form>
+    <vehicles>
+      <vehicle vehicle_id="105115" dealer_id="16" type="car">
+  <mark mark_id="58">Land Rover</mark>
+  <model model_id="1330">Range Rover III</model>
+  <year>2003</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="disel_turbo">дизель турбонаддув</type>
+    <volume unit="cm3">2998</volume>
+          <power unit="hp">177</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="grey" metallic="1">серый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">220000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="860000">860000</value>
+          </price>
+  <pts_owner_count>три или более</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="1012170" file_name="1f2a1c286c5ddb32c9ced7dceaf63807.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/105115/thumbnail/1f2a1c286c5ddb32c9ced7dceaf63807.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-10-04</created_at>
+    <updated_at>2012-10-04</updated_at>
+    <expires_at>2012-11-03</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="104085" dealer_id="16" type="car">
+  <mark mark_id="22">Chevrolet</mark>
+  <model model_id="426">Tahoe (GMT410)</model>
+  <year>1999</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">5733</volume>
+          <power unit="hp">254</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">234000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="520000">520000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="1002553" file_name="43ea9353fe87087d6892e725ca4ab360.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/104085/thumbnail/43ea9353fe87087d6892e725ca4ab360.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-09-28</created_at>
+    <updated_at>2012-10-01</updated_at>
+    <expires_at>2012-10-28</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="103772" dealer_id="16" type="car">
+  <mark mark_id="9">Audi</mark>
+  <model model_id="153">A8 (D3,4E)</model>
+  <year>2004</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">4198</volume>
+          <power unit="hp">335</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="black">черный</color>
+  </body>
+  <mileage>
+    <value unit="km">151000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="590000">590000</value>
+          </price>
+  <pts_owner_count>два</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="999369" file_name="2c0ba23decfe82d14ef8afb9a3038d46.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103772/thumbnail/2c0ba23decfe82d14ef8afb9a3038d46.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-09-27</created_at>
+    <updated_at>2012-09-27</updated_at>
+    <expires_at>2012-10-27</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="103444" dealer_id="16" type="car">
+  <mark mark_id="105">Toyota</mark>
+  <model model_id="2475">Camry VI</model>
+  <year>2011</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">2398</volume>
+          <power unit="hp">167</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">2100</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="950000">950000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="995967" file_name="e078f705d6a443dc6683272f66f0a9ff.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103444/thumbnail/e078f705d6a443dc6683272f66f0a9ff.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-09-25</created_at>
+    <updated_at>2012-09-27</updated_at>
+    <expires_at>2012-10-25</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="103398" dealer_id="16" type="car">
+  <mark mark_id="105">Toyota</mark>
+  <model model_id="2706">RAV4 III</model>
+  <year>2008</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">2398</volume>
+          <power unit="hp">170</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="black">черный</color>
+  </body>
+  <mileage>
+    <value unit="km">15000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="950000">950000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="995548" file_name="080440fbb29eed3311ce36abb754edc6.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103398/thumbnail/080440fbb29eed3311ce36abb754edc6.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-09-25</created_at>
+    <updated_at>2012-09-28</updated_at>
+    <expires_at>2012-10-25</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="103388" dealer_id="16" type="car">
+  <mark mark_id="113">Volvo</mark>
+  <model model_id="2872">XC90</model>
+  <year>2006</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">2521</volume>
+          <power unit="hp">210</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">189000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="840000">840000</value>
+          </price>
+  <pts_owner_count>два</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="995489" file_name="1cf38b797f7760350de714649cc23950.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103388/thumbnail/1cf38b797f7760350de714649cc23950.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-09-25</created_at>
+    <updated_at>2012-09-27</updated_at>
+    <expires_at>2012-10-25</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="102638" dealer_id="16" type="car">
+  <mark mark_id="60">Lexus</mark>
+  <model model_id="1352">RX II</model>
+  <year>2003</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">2998</volume>
+          <power unit="hp">204</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="silver" metallic="1">серебристый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">100000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="720000">720000</value>
+          </price>
+  <pts_owner_count>три или более</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="988323" file_name="0be64991e097080611b38b2912c6da7f.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/102638/thumbnail/0be64991e097080611b38b2912c6da7f.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-09-20</created_at>
+    <updated_at>2012-10-03</updated_at>
+    <expires_at>2012-10-20</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="102273" dealer_id="16" type="car">
+  <mark mark_id="98">Ssang Yong</mark>
+  <model model_id="2339">Kyron</model>
+  <year>2008</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="disel_turbo">дизель турбонаддув</type>
+    <volume unit="cm3">1998</volume>
+          <power unit="hp">141</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">81000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="640000">640000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="985339" file_name="fe5190ccf969700aa1d4e9cf2ada70be.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/102273/thumbnail/fe5190ccf969700aa1d4e9cf2ada70be.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-09-18</created_at>
+    <updated_at>2012-09-19</updated_at>
+    <expires_at>2012-10-18</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="101757" dealer_id="16" type="car">
+  <mark mark_id="113">Volvo</mark>
+  <model model_id="2838">S60</model>
+  <year>2004</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">2435</volume>
+          <power unit="hp">170</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="silver" metallic="1">серебристый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">185000</value>
+      </mileage>
+  <condition condition_id="good">хорошее</condition>
+      <price>
+    <value unit="rub" rub_price="380000">380000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="979548" file_name="0a2c1525e079d763f33c367f445eba4c.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101757/thumbnail/0a2c1525e079d763f33c367f445eba4c.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-09-14</created_at>
+    <updated_at>2012-10-08</updated_at>
+    <expires_at>2012-11-07</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="101756" dealer_id="16" type="car">
+  <mark mark_id="76">Nissan</mark>
+  <model model_id="1871">Primera (P12)</model>
+  <year>2007</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">1769</volume>
+          <power unit="hp">116</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">92000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="435000">435000</value>
+          </price>
+  <pts_owner_count>два</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="979540" file_name="d46dd9fe3450d18404cc218c306326d2.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101756/thumbnail/d46dd9fe3450d18404cc218c306326d2.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-09-14</created_at>
+    <updated_at>2012-10-08</updated_at>
+    <expires_at>2012-11-07</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="101755" dealer_id="16" type="car">
+  <mark mark_id="76">Nissan</mark>
+  <model model_id="1812">X-Trail II</model>
+  <year>2007</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">1997</volume>
+          <power unit="hp">141</power>
+          </engine>
+  <drive>
+    <type drive_type_id="optional_4wd">подключаемый полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">87000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="795000">795000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="979532" file_name="92b0921c04a8fa4bdeb045bcd4b9dfd8.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101755/thumbnail/92b0921c04a8fa4bdeb045bcd4b9dfd8.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-09-14</created_at>
+    <updated_at>2012-10-08</updated_at>
+    <expires_at>2012-11-07</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="101339" dealer_id="16" type="car">
+  <mark mark_id="97">Skoda</mark>
+  <model model_id="2306">Fabia II</model>
+  <year>2010</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">1598</volume>
+          <power unit="hp">105</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="hatchback5">хэтчбек (5-ти дв.)</type>
+    <color body_color_id="blue" metallic="1">синий металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">8700</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="560000">560000</value>
+          </price>
+  <pts_owner_count>два</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="975608" file_name="0514d435cfc1fe0eca4dac87f998f9dc.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101339/thumbnail/0514d435cfc1fe0eca4dac87f998f9dc.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-09-12</created_at>
+    <updated_at>2012-10-05</updated_at>
+    <expires_at>2012-11-04</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="99975" dealer_id="16" type="car">
+  <mark mark_id="132">Hummer</mark>
+  <model model_id="1081">H3</model>
+  <year>2006</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">3465</volume>
+          <power unit="hp">223</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="red">красный</color>
+  </body>
+  <mileage>
+    <value unit="km">55000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="1100000">1100000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="961912" file_name="9ef4c12ec06dc3f95ef7816704b6950e.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/99975/thumbnail/9ef4c12ec06dc3f95ef7816704b6950e.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-09-03</created_at>
+    <updated_at>2012-09-26</updated_at>
+    <expires_at>2012-10-26</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="99025" dealer_id="16" type="car">
+  <mark mark_id="2">Acura</mark>
+  <model model_id="3323">MDX II</model>
+  <year>2007</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">3678</volume>
+          <power unit="hp">299</power>
+          </engine>
+  <drive>
+    <type drive_type_id="optional_4wd">подключаемый полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">69000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="1250000">1250000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="1004809" file_name="98e3b7ff90170ba9a98030f2cb9f5ebe.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/99025/thumbnail/98e3b7ff90170ba9a98030f2cb9f5ebe.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-08-28</created_at>
+    <updated_at>2012-09-30</updated_at>
+    <expires_at>2012-10-20</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="98434" dealer_id="16" type="car">
+  <mark mark_id="14">BMW</mark>
+  <model model_id="212">X5 (E53)</model>
+  <year>2006</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">2979</volume>
+          <power unit="hp">231</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">144000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="1000000">1000000</value>
+          </price>
+  <pts_owner_count>три или более</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="947037" file_name="9e1ac5130a25e34a0b7d2bb31dd96963.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/98434/thumbnail/9e1ac5130a25e34a0b7d2bb31dd96963.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-08-24</created_at>
+    <updated_at>2012-10-09</updated_at>
+    <expires_at>2012-11-08</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="96817" dealer_id="16" type="car">
+  <mark mark_id="55">Kia</mark>
+  <model model_id="3278">Cerato II</model>
+  <year>2011</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">1591</volume>
+          <power unit="hp">126</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="red" metallic="1">красный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">26000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="700000">700000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="931105" file_name="a1db69993a9d19338388923c009efcd3.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96817/thumbnail/a1db69993a9d19338388923c009efcd3.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-08-15</created_at>
+    <updated_at>2012-09-30</updated_at>
+    <expires_at>2012-10-30</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="96641" dealer_id="16" type="car">
+  <mark mark_id="14">BMW</mark>
+  <model model_id="211">X3 (E83)</model>
+  <year>2008</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="disel_turbo">дизель турбонаддув</type>
+    <volume unit="cm3">1998</volume>
+          <power unit="hp">177</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="silver" metallic="1">серебристый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">138000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="1100000">1100000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="929477" file_name="12bc4aa3200df1e5ca9d714a46f171fa.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96641/thumbnail/12bc4aa3200df1e5ca9d714a46f171fa.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-08-13</created_at>
+    <updated_at>2012-09-28</updated_at>
+    <expires_at>2012-10-28</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="96473" dealer_id="16" type="car">
+  <mark mark_id="73">Mitsubishi</mark>
+  <model model_id="1669">Outlander II(XL)</model>
+  <year>2007</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">2998</volume>
+          <power unit="hp">220</power>
+          </engine>
+  <drive>
+    <type drive_type_id="optional_4wd">подключаемый полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="gold" metallic="1">золотой металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">51573</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="725000">725000</value>
+          </price>
+  <pts_owner_count>три или более</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="928045" file_name="35d0df7bf2cd6ce5d3892c9ca0eb7256.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96473/thumbnail/35d0df7bf2cd6ce5d3892c9ca0eb7256.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-08-12</created_at>
+    <updated_at>2012-09-27</updated_at>
+    <expires_at>2012-10-27</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="95929" dealer_id="16" type="car">
+  <mark mark_id="14">BMW</mark>
+  <model model_id="212">X5 (E53)</model>
+  <year>2002</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">2998</volume>
+          <power unit="hp">231</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="blue" metallic="1">синий металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">285000</value>
+      </mileage>
+  <condition condition_id="good">хорошее</condition>
+      <price>
+    <value unit="rub" rub_price="630000">630000</value>
+          </price>
+  <pts_owner_count>два</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="923112" file_name="199bdba31a9312b392c1b3a4781c791f.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/95929/thumbnail/199bdba31a9312b392c1b3a4781c791f.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-08-09</created_at>
+    <updated_at>2012-09-24</updated_at>
+    <expires_at>2012-10-24</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="95316" dealer_id="16" type="car">
+  <mark mark_id="24">Citroen</mark>
+  <model model_id="534">C4 Coupe</model>
+  <year>2007</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">1587</volume>
+          <power unit="hp">109</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="hatchback3">хэтчбек (3-х дв.)</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">89900</value>
+      </mileage>
+  <condition condition_id="good">хорошее</condition>
+      <price>
+    <value unit="rub" rub_price="380000">380000</value>
+          </price>
+  <pts_owner_count>два</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="917280" file_name="a861789231d27bc139b49d3f4d695a84.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/95316/thumbnail/a861789231d27bc139b49d3f4d695a84.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-08-05</created_at>
+    <updated_at>2012-09-20</updated_at>
+    <expires_at>2012-10-20</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="94109" dealer_id="16" type="car">
+  <mark mark_id="80">Peugeot</mark>
+  <model model_id="2048">207</model>
+  <year>2008</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">1598</volume>
+          <power unit="hp">120</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="hatchback5">хэтчбек (5-ти дв.)</type>
+    <color body_color_id="green" metallic="1">зеленый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">43000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="460000">460000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="906127" file_name="34cc92b17e2ec023ebbf4967849010ae.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/94109/thumbnail/34cc92b17e2ec023ebbf4967849010ae.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-07-28</created_at>
+    <updated_at>2012-10-05</updated_at>
+    <expires_at>2012-11-04</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="91175" dealer_id="16" type="car">
+  <mark mark_id="68">Mercedes-Benz</mark>
+  <model model_id="1606">GL (X164)</model>
+  <year>2009</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="disel_turbo">дизель турбонаддув</type>
+    <volume unit="cm3">2998</volume>
+          <power unit="hp">214</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="white">белый</color>
+  </body>
+  <mileage>
+    <value unit="mile">48000</value>
+          <without_rus_mileage/>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="1950000">1950000</value>
+          </price>
+  <pts_owner_count>нет</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="929485" file_name="f83c604fb00fe722cdf6133a1a3e76ed.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/91175/thumbnail/f83c604fb00fe722cdf6133a1a3e76ed.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-07-09</created_at>
+    <updated_at>2012-10-09</updated_at>
+    <expires_at>2012-11-08</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="88342" dealer_id="16" type="car">
+  <mark mark_id="68">Mercedes-Benz</mark>
+  <model model_id="1583">E-klasse T-mod. (S211)</model>
+  <year>2007</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="disel_turbo">дизель турбонаддув</type>
+    <volume unit="cm3">2198</volume>
+          <power unit="hp">170</power>
+          </engine>
+  <drive>
+    <type drive_type_id="rear">задний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="universal">универсал</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">107000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="820000">820000</value>
+          </price>
+  <pts_owner_count>нет</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="850418" file_name="5fe2ea1b338c107d45c84ca6f2820936.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/88342/thumbnail/5fe2ea1b338c107d45c84ca6f2820936.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-06-21</created_at>
+    <updated_at>2012-09-28</updated_at>
+    <expires_at>2012-10-28</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="84957" dealer_id="16" type="car">
+  <mark mark_id="68">Mercedes-Benz</mark>
+  <model model_id="1601">CLS (C219)</model>
+  <year>2007</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">3498</volume>
+          <power unit="hp">272</power>
+          </engine>
+  <drive>
+    <type drive_type_id="rear">задний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="red" metallic="1">красный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">28000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="1450000">1450000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="816025" file_name="11b4ba337ebe9ae19e69449f4254803a.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/84957/thumbnail/11b4ba337ebe9ae19e69449f4254803a.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-05-31</created_at>
+    <updated_at>2012-09-24</updated_at>
+    <expires_at>2012-10-23</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="81833" dealer_id="16" type="car">
+  <mark mark_id="105">Toyota</mark>
+  <model model_id="2502">Land Cruiser 200</model>
+  <year>2008</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="disel_turbo">дизель турбонаддув</type>
+    <volume unit="cm3">4461</volume>
+          <power unit="hp">235</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">186000</value>
+      </mileage>
+  <condition condition_id="good">хорошее</condition>
+      <price>
+    <value unit="rub" rub_price="1890000">1890000</value>
+          </price>
+  <pts_owner_count>два</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="785282" file_name="0caac7dfebfcb20fa032b4d757fe4b62.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/81833/thumbnail/0caac7dfebfcb20fa032b4d757fe4b62.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-05-13</created_at>
+    <updated_at>2012-09-28</updated_at>
+    <expires_at>2012-10-28</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="74092" dealer_id="16" type="car">
+  <mark mark_id="14">BMW</mark>
+  <model model_id="211">X3 (E83)</model>
+  <year>2007</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">2998</volume>
+          <power unit="hp">272</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="black" metallic="1">черный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">53000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="1030000">1030000</value>
+          </price>
+  <pts_owner_count>три или более</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="700659" file_name="b8205ee4428d5a15e9e64bef7ff8d543.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/74092/thumbnail/b8205ee4428d5a15e9e64bef7ff8d543.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-03-21</created_at>
+    <updated_at>2012-09-25</updated_at>
+    <expires_at>2012-10-25</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="72445" dealer_id="16" type="car">
+  <mark mark_id="60">Lexus</mark>
+  <model model_id="1343">GX</model>
+  <year>2005</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">4700</volume>
+          <power unit="hp">270</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="silver" metallic="1">серебристый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">108000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="1280000">1280000</value>
+          </price>
+  <pts_owner_count>два</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="780168" file_name="a495d5958852c5eb67ed999d38244726.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/72445/thumbnail/a495d5958852c5eb67ed999d38244726.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-03-10</created_at>
+    <updated_at>2012-10-05</updated_at>
+    <expires_at>2012-11-04</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="72125" dealer_id="16" type="car">
+  <mark mark_id="112">Volkswagen</mark>
+  <model model_id="2830">Passat (B6)</model>
+  <year>2007</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="disel_turbo">дизель турбонаддув</type>
+    <volume unit="cm3">1968</volume>
+          <power unit="hp">140</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="black">черный</color>
+  </body>
+  <mileage>
+    <value unit="km">144000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="695000">695000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="680678" file_name="e9f3f175b340fcccefa9cbc1899e2d13.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/72125/thumbnail/e9f3f175b340fcccefa9cbc1899e2d13.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-03-07</created_at>
+    <updated_at>2012-09-30</updated_at>
+    <expires_at>2012-10-30</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="70218" dealer_id="16" type="car">
+  <mark mark_id="113">Volvo</mark>
+  <model model_id="2872">XC90</model>
+  <year>2008</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_turbo">бензин турбонаддув</type>
+    <volume unit="cm3">2521</volume>
+          <power unit="hp">210</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="blue" metallic="1">синий металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">124000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="945000">945000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="724213" file_name="a4b339559557c5788cc8eb9aa2c36d63.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/70218/thumbnail/a4b339559557c5788cc8eb9aa2c36d63.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-02-22</created_at>
+    <updated_at>2012-09-18</updated_at>
+    <expires_at>2012-10-18</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="70214" dealer_id="16" type="car">
+  <mark mark_id="60">Lexus</mark>
+  <model model_id="1352">RX II</model>
+  <year>2008</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">3456</volume>
+          <power unit="hp">276</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="blue" metallic="1">синий металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">103000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="1270000">1270000</value>
+          </price>
+  <pts_owner_count>два</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="772481" file_name="6e9e41754c0164d76549b45636b5145d.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/70214/thumbnail/6e9e41754c0164d76549b45636b5145d.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2012-02-22</created_at>
+    <updated_at>2012-10-02</updated_at>
+    <expires_at>2012-10-18</expires_at>
+  </dates>
+</vehicle>
+      <vehicle vehicle_id="49231" dealer_id="16" type="car">
+  <mark mark_id="68">Mercedes-Benz</mark>
+  <model model_id="1578">E-klasse (W211)</model>
+  <year>2002</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+      </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">3197</volume>
+          <power unit="hp">224</power>
+          </engine>
+  <drive>
+    <type drive_type_id="rear">задний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="silver" metallic="1">серебристый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">187000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="570000">570000</value>
+          </price>
+  <pts_owner_count>три или более</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+  
+                <photo photo_id="449714" file_name="8c73ee63b01de77e6787e5dc17d2c345.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/49231/thumbnail/8c73ee63b01de77e6787e5dc17d2c345.jpg</thumbnail>
+              </photo>
+            <dates>
+    <created_at>2011-08-29</created_at>
+    <updated_at>2012-10-01</updated_at>
+    <expires_at>2012-10-25</expires_at>
+  </dates>
+</vehicle>
+    </vehicles>
+  </response>

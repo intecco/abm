@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="100335" dealer_id="16" type="car">
+  <mark mark_id="67">Mazda</mark>
+  <model model_id="1532">RX-8</model>
+  <year>2005</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">1308</volume>
+          <power unit="hp">197</power>
+          </engine>
+  <drive>
+    <type drive_type_id="rear">задний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="manual">ручная</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="grey" metallic="1">серый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">60100</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="390000">390000</value>
+          </price>
+  <pts_owner_count>три или более</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>    <asr/>        <trip_computer/>    <parktronic/>    <esp/>    <light_alloy_wheels/>          <sensors>
+        <rain/>        <light/>      </sensors>
+              <headlights>
+                <washer/>      </headlights>
+              <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                <tinted/>      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>электропривод</driver_adjustment>
+                          <passanger_adjustment>электропривод</passanger_adjustment>
+              </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>климат 2-зонный</climate_control>    <multimedia>CD</multimedia>          <compartment>
+        <decoration>кожа</decoration>              </compartment>
+                  <description><![CDATA[Автомобиль полностью обслужен. Отличное техническое и внешнее состояние.
+
+Возможна продажа в кредит
+сроком до 5 лет с возможностью досрочного погашения
+первоначальный взнос от 10%
+Максимально быстрое рассмотрение заявки, минимальный пакет предоставляемых документов.
+
+Возможен зачет Вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="965961" file_name="a575c8b158e5a08052762244ca01c9f0.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/100335/thumbnail/a575c8b158e5a08052762244ca01c9f0.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/100335/original/a575c8b158e5a08052762244ca01c9f0.jpg</original>
+              </photo>
+          <photo photo_id="965962" file_name="a4b2102329ece74baca2b63b3855b29f.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/100335/thumbnail/a4b2102329ece74baca2b63b3855b29f.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/100335/original/a4b2102329ece74baca2b63b3855b29f.jpg</original>
+              </photo>
+          <photo photo_id="965964" file_name="6204f963d63992e40f0da61b53d6fa53.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/100335/thumbnail/6204f963d63992e40f0da61b53d6fa53.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/100335/original/6204f963d63992e40f0da61b53d6fa53.jpg</original>
+              </photo>
+          <photo photo_id="965965" file_name="7095e8ca40998f909ee14404dfb879e0.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/100335/thumbnail/7095e8ca40998f909ee14404dfb879e0.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/100335/original/7095e8ca40998f909ee14404dfb879e0.jpg</original>
+              </photo>
+          <photo photo_id="965966" file_name="9a5ed4b23eeba825e1d004a392d22a9d.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/100335/thumbnail/9a5ed4b23eeba825e1d004a392d22a9d.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/100335/original/9a5ed4b23eeba825e1d004a392d22a9d.jpg</original>
+              </photo>
+          <photo photo_id="965968" file_name="aff6ca4f52485039a1b3049624e0763b.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/100335/thumbnail/aff6ca4f52485039a1b3049624e0763b.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/100335/original/aff6ca4f52485039a1b3049624e0763b.jpg</original>
+              </photo>
+          <photo photo_id="965969" file_name="96877c9795819465a21c56bdccae8fa5.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/100335/thumbnail/96877c9795819465a21c56bdccae8fa5.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/100335/original/96877c9795819465a21c56bdccae8fa5.jpg</original>
+              </photo>
+          <photo photo_id="965971" file_name="13b9ef24927a8b63f1be8f4cbc1e9023.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/100335/thumbnail/13b9ef24927a8b63f1be8f4cbc1e9023.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/100335/original/13b9ef24927a8b63f1be8f4cbc1e9023.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-09-06</created_at>
+    <updated_at>2012-09-29</updated_at>
+    <expires_at>2012-10-29</expires_at>
+  </dates>
+</vehicle>
+</response>

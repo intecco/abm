@@ -1,0 +1,60 @@
+/* --- FOR ALL PAGES --- */
+ .ml54 {
+	margin-left:53px !important;
+}
+
+.small-btn {
+	background:#c8c4a8 url(/templates/avm.ru/images/small-btn-grad.gif) repeat-x bottom;
+}
+
+.search-btn {
+	background:#c9c5a9 url(/templates/avm.ru/images/search-btn-grad.gif) repeat-x bottom;
+}
+
+.large-btn {
+		background:#c9c5a9 url(/templates/avm.ru/images/search-btn-grad.gif) repeat-x bottom;
+}
+
+/* --- Header area --- */
+nav ul {
+	background:#656668 url(/templates/avm.ru/images/nav-grad.gif) repeat-x top;
+}
+
+/* --- Content area --- */
+
+.bonus-vertical-widget li.lc {
+	margin-bottom:0;
+}
+
+.bonus-widget li.lc {
+	margin-right:0;
+}
+
+.filter table{
+	background:#e0ded2 url(/templates/avm.ru/images/filter-grad.gif) repeat-x bottom;
+}
+
+
+.askquestion {
+		background:#e0ded2 url(/templates/avm.ru/images/filter-grad.gif) repeat-x bottom;
+}
+
+.auto-filter table td.lc, .velo-html .filter table td.lc {
+	background:none;
+}
+
+.breadcrumbs li.lc{
+	margin-right:0;
+}
+
+
+
+/* --- Footer area ---*/
+
+footer .fl a.lc {
+	font-size:0.9em;
+}
+
+.consult-and-cab-widget .logout:hover {
+	border-bottom:0;
+}

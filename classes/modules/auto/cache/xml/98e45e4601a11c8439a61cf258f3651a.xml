@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="96473" dealer_id="16" type="car">
+  <mark mark_id="73">Mitsubishi</mark>
+  <model model_id="1669">Outlander II(XL)</model>
+  <year>2007</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">2998</volume>
+          <power unit="hp">220</power>
+          </engine>
+  <drive>
+    <type drive_type_id="optional_4wd">подключаемый полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="gold" metallic="1">золотой металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">51573</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="725000">725000</value>
+          </price>
+  <pts_owner_count>три или более</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>    <asr/>    <cruise_control/>    <trip_computer/>    <parktronic/>        <light_alloy_wheels/>          <sensors>
+        <rain/>        <light/>      </sensors>
+              <headlights>
+        <xenon/>        <washer/>      </headlights>
+              <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                <tinted/>      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>электропривод</driver_adjustment>
+                          <passanger_adjustment>электропривод</passanger_adjustment>
+              </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>климат 1-зонный</climate_control>    <multimedia>CD+NAVI+TV</multimedia>          <compartment>
+        <decoration>кожа</decoration>              </compartment>
+                  <description><![CDATA[Дилерский автомобиль. Покупался новым в РОЛЬФ Карлайн в июне 2007 года. 3 владельца в РФ. Оригинальный таможенный ПТС. Полный комплект ключей. Дополнительно установлено мультимедийное устройство. Максимальная комплектация. Отличное техническое состояние. Безупречный внешний вид.
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения. 
+Минимальный пакет документов. Максимально быстрое рассмотрение заявки.
+
+Возможен зачет Вашего автомобиля по системе Trade-in. ]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="928045" file_name="35d0df7bf2cd6ce5d3892c9ca0eb7256.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96473/thumbnail/35d0df7bf2cd6ce5d3892c9ca0eb7256.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/96473/original/35d0df7bf2cd6ce5d3892c9ca0eb7256.jpg</original>
+              </photo>
+          <photo photo_id="928046" file_name="8818323e87983450280112630e82e7d8.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96473/thumbnail/8818323e87983450280112630e82e7d8.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/96473/original/8818323e87983450280112630e82e7d8.jpg</original>
+              </photo>
+          <photo photo_id="928047" file_name="2edab2937edd89c048a89fd8b5365abf.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96473/thumbnail/2edab2937edd89c048a89fd8b5365abf.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/96473/original/2edab2937edd89c048a89fd8b5365abf.jpg</original>
+              </photo>
+          <photo photo_id="928053" file_name="7f200f7ee860cb2cf24f1d4dc41be629.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96473/thumbnail/7f200f7ee860cb2cf24f1d4dc41be629.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/96473/original/7f200f7ee860cb2cf24f1d4dc41be629.jpg</original>
+              </photo>
+          <photo photo_id="928057" file_name="baa176472914b6f2bee39db32986c227.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96473/thumbnail/baa176472914b6f2bee39db32986c227.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/96473/original/baa176472914b6f2bee39db32986c227.jpg</original>
+              </photo>
+          <photo photo_id="928058" file_name="63e295248d4b73f9ba2968de20c28d1e.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96473/thumbnail/63e295248d4b73f9ba2968de20c28d1e.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/96473/original/63e295248d4b73f9ba2968de20c28d1e.jpg</original>
+              </photo>
+          <photo photo_id="928059" file_name="9b00eda4951f5f9efae2a82a2b2aa38d.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96473/thumbnail/9b00eda4951f5f9efae2a82a2b2aa38d.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/96473/original/9b00eda4951f5f9efae2a82a2b2aa38d.jpg</original>
+              </photo>
+          <photo photo_id="928060" file_name="3dc97252147e023e6541c8ac3a4fcb3e.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96473/thumbnail/3dc97252147e023e6541c8ac3a4fcb3e.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/96473/original/3dc97252147e023e6541c8ac3a4fcb3e.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-08-12</created_at>
+    <updated_at>2012-09-27</updated_at>
+    <expires_at>2012-10-27</expires_at>
+  </dates>
+</vehicle>
+</response>

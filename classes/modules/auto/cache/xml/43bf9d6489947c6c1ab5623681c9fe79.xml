@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="99114" dealer_id="16" type="car">
+  <mark mark_id="80">Peugeot</mark>
+  <model model_id="3115">Partner II</model>
+  <year>2010</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="disel_turbo">дизель турбонаддув</type>
+    <volume unit="cm3">1560</volume>
+          <power unit="hp">90</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="manual">ручная</type>
+  </gearbox>
+  <body>
+    <type body_type_id="minivan">минивэн</type>
+    <color body_color_id="grey" metallic="1">серый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">70000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="550000">550000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>        <cruise_control/>    <trip_computer/>            <light_alloy_wheels/>              <headlights>
+                <washer/>      </headlights>
+              <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                <tinted/>      </windows>
+              <seats>
+                          <driver_adjustment>по высоте</driver_adjustment>
+                      </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>кондиционер</climate_control>    <multimedia>CD</multimedia>          <compartment>
+        <decoration>ткань</decoration>              </compartment>
+                  <description><![CDATA[Дилерский автомобиль. Покупался новым в &quot;Конкорде&quot; в мае 2010 года. Один владелец. Оригинальный таможенный ПТС. Полный комплект ключей.
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10% 
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="953751" file_name="1e9cbef0dd715d5ec087d70bbbad8ecd.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/99114/thumbnail/1e9cbef0dd715d5ec087d70bbbad8ecd.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/99114/original/1e9cbef0dd715d5ec087d70bbbad8ecd.jpg</original>
+              </photo>
+          <photo photo_id="953752" file_name="82506ce18867705bacd0707b6d1a8b39.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/99114/thumbnail/82506ce18867705bacd0707b6d1a8b39.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/99114/original/82506ce18867705bacd0707b6d1a8b39.jpg</original>
+              </photo>
+          <photo photo_id="953753" file_name="f1e0b9f7148fdc2076c5893afa4611fe.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/99114/thumbnail/f1e0b9f7148fdc2076c5893afa4611fe.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/99114/original/f1e0b9f7148fdc2076c5893afa4611fe.jpg</original>
+              </photo>
+          <photo photo_id="953754" file_name="d4ee8c0a62d11eb99d4a442a06804f81.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/99114/thumbnail/d4ee8c0a62d11eb99d4a442a06804f81.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/99114/original/d4ee8c0a62d11eb99d4a442a06804f81.jpg</original>
+              </photo>
+          <photo photo_id="953755" file_name="4c478777af4b53ba61a59d43bdf52794.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/99114/thumbnail/4c478777af4b53ba61a59d43bdf52794.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/99114/original/4c478777af4b53ba61a59d43bdf52794.jpg</original>
+              </photo>
+          <photo photo_id="953756" file_name="f37fc2bebdf8a89af31e8742e6eb9a7a.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/99114/thumbnail/f37fc2bebdf8a89af31e8742e6eb9a7a.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/99114/original/f37fc2bebdf8a89af31e8742e6eb9a7a.jpg</original>
+              </photo>
+          <photo photo_id="953757" file_name="521d2e706847c11ab6e0066b387dd3b6.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/99114/thumbnail/521d2e706847c11ab6e0066b387dd3b6.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/99114/original/521d2e706847c11ab6e0066b387dd3b6.jpg</original>
+              </photo>
+          <photo photo_id="953758" file_name="196f2342048e5ef5d07116405a3bc677.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/99114/thumbnail/196f2342048e5ef5d07116405a3bc677.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/99114/original/196f2342048e5ef5d07116405a3bc677.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-08-29</created_at>
+    <updated_at>2012-09-21</updated_at>
+    <expires_at>2012-10-21</expires_at>
+  </dates>
+</vehicle>
+</response>

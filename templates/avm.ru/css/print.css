@@ -1,0 +1,71 @@
+.order-single-html {
+	margin: auto;
+	width: 1000px;
+}
+
+.order-single-html .simple-table {
+	margin: auto;
+	text-align: center;
+	width: 100%;
+}
+
+.map,.google-map {
+	width: 350px;
+	height: 300px;
+}
+
+.simple-table tr:last-child {
+	text-align: right;
+}
+
+.good-item {
+	width: 250px;
+}
+
+.good-item a:first-child {
+	float: left;
+}
+
+.linksBlock {
+	height: 40px;
+}
+
+.linksBlock a.back {
+	float: right;
+}
+
+body {
+	font-size: 16px;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+table {
+	border: 1px solid black;
+	padding: 10px;
+}
+
+table td,table tr {
+	padding: 10px;
+	border: 1px solid black;
+}
+
+.nav {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 18px;
+}
+
+.nav a {
+	display: block;
+}
+
+@media print {
+	.nav {
+		display: none;
+	}
+}
+
+.clear {
+	clear: both;
+}

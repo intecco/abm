@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="96817" dealer_id="16" type="car">
+  <mark mark_id="55">Kia</mark>
+  <model model_id="3278">Cerato II</model>
+  <year>2011</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="electro">электро</power>
+                    <adjustment steering_wheel_adjustment_id="one">в одной плоскости</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">1591</volume>
+          <power unit="hp">126</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="red" metallic="1">красный металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">26000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="700000">700000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>            <trip_computer/>            <light_alloy_wheels/>                  <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                <tinted/>      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>по высоте</driver_adjustment>
+                      </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>климат 1-зонный</climate_control>    <multimedia>CD</multimedia>          <compartment>
+        <decoration>ткань</decoration>              </compartment>
+                  <description><![CDATA[Дилерский автомобиль. Сервисная книжка. Один владелец. Полный комплект ключей.Потолочный DVD, CD, USB для задних пассажиров. Сделана полная шумоизоляция салона. Оригинальный таможенный ПТС. 
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="931105" file_name="a1db69993a9d19338388923c009efcd3.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96817/thumbnail/a1db69993a9d19338388923c009efcd3.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/96817/original/a1db69993a9d19338388923c009efcd3.jpg</original>
+              </photo>
+          <photo photo_id="931106" file_name="1ba42c33ace1c59bcf129a0a78207f17.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96817/thumbnail/1ba42c33ace1c59bcf129a0a78207f17.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/96817/original/1ba42c33ace1c59bcf129a0a78207f17.jpg</original>
+              </photo>
+          <photo photo_id="931108" file_name="0bf08b2946050d01b65815df852d7460.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96817/thumbnail/0bf08b2946050d01b65815df852d7460.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/96817/original/0bf08b2946050d01b65815df852d7460.jpg</original>
+              </photo>
+          <photo photo_id="931109" file_name="9d828d37af0bf8ec810370d5bda24428.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96817/thumbnail/9d828d37af0bf8ec810370d5bda24428.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/96817/original/9d828d37af0bf8ec810370d5bda24428.jpg</original>
+              </photo>
+          <photo photo_id="931110" file_name="31ca91558e1acaaca2f6656ef1ca886f.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96817/thumbnail/31ca91558e1acaaca2f6656ef1ca886f.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/96817/original/31ca91558e1acaaca2f6656ef1ca886f.jpg</original>
+              </photo>
+          <photo photo_id="931112" file_name="51b9c6c4511ab2fcb63feb1284c195a1.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96817/thumbnail/51b9c6c4511ab2fcb63feb1284c195a1.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/96817/original/51b9c6c4511ab2fcb63feb1284c195a1.jpg</original>
+              </photo>
+          <photo photo_id="931113" file_name="19c7074ac314ab4cf12f4a98e47a9c1f.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96817/thumbnail/19c7074ac314ab4cf12f4a98e47a9c1f.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/96817/original/19c7074ac314ab4cf12f4a98e47a9c1f.jpg</original>
+              </photo>
+          <photo photo_id="931115" file_name="894a82aae910a49207d94fc14c5ab93c.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/96817/thumbnail/894a82aae910a49207d94fc14c5ab93c.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/96817/original/894a82aae910a49207d94fc14c5ab93c.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-08-15</created_at>
+    <updated_at>2012-09-30</updated_at>
+    <expires_at>2012-10-30</expires_at>
+  </dates>
+</vehicle>
+</response>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="101757" dealer_id="16" type="car">
+  <mark mark_id="113">Volvo</mark>
+  <model model_id="2838">S60</model>
+  <year>2004</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">2435</volume>
+          <power unit="hp">170</power>
+          </engine>
+  <drive>
+    <type drive_type_id="front">передний</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="silver" metallic="1">серебристый металлик</color>
+  </body>
+  <mileage>
+    <value unit="km">185000</value>
+      </mileage>
+  <condition condition_id="good">хорошее</condition>
+      <price>
+    <value unit="rub" rub_price="380000">380000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>    <asr/>    <cruise_control/>    <trip_computer/>        <esp/>    <light_alloy_wheels/>              <headlights>
+        <xenon/>              </headlights>
+              <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                <tinted/>      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>по высоте</driver_adjustment>
+                      </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>климат 2-зонный</climate_control>    <multimedia>CD</multimedia>          <compartment>
+        <decoration>комбинированный</decoration>              </compartment>
+                  <description><![CDATA[Дилерский автомобиль. Покупался новым в феврале 2004 года в РОЛЬФ Карлайн на Витебском проспекте. Один владелец за всю историю автомобиля. Хорошее техническое и внешнее состояние.
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10% 
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="979548" file_name="0a2c1525e079d763f33c367f445eba4c.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101757/thumbnail/0a2c1525e079d763f33c367f445eba4c.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/101757/original/0a2c1525e079d763f33c367f445eba4c.jpg</original>
+              </photo>
+          <photo photo_id="979549" file_name="0366793d1a510e0d39303f8de4b54384.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101757/thumbnail/0366793d1a510e0d39303f8de4b54384.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/101757/original/0366793d1a510e0d39303f8de4b54384.jpg</original>
+              </photo>
+          <photo photo_id="979550" file_name="c36a235e92126a1860bef475cf694729.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101757/thumbnail/c36a235e92126a1860bef475cf694729.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/101757/original/c36a235e92126a1860bef475cf694729.jpg</original>
+              </photo>
+          <photo photo_id="979551" file_name="2dfc69b67246c6030dace500535acdbc.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101757/thumbnail/2dfc69b67246c6030dace500535acdbc.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/101757/original/2dfc69b67246c6030dace500535acdbc.jpg</original>
+              </photo>
+          <photo photo_id="979552" file_name="764e15fcdd05fe36f90a5584dfc9df23.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101757/thumbnail/764e15fcdd05fe36f90a5584dfc9df23.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/101757/original/764e15fcdd05fe36f90a5584dfc9df23.jpg</original>
+              </photo>
+          <photo photo_id="979553" file_name="adacd07b9a3ae782ce70ed9d61ea641c.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101757/thumbnail/adacd07b9a3ae782ce70ed9d61ea641c.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/101757/original/adacd07b9a3ae782ce70ed9d61ea641c.jpg</original>
+              </photo>
+          <photo photo_id="979554" file_name="400d1fe1ee46eb6114a51a5370d86c1f.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101757/thumbnail/400d1fe1ee46eb6114a51a5370d86c1f.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/101757/original/400d1fe1ee46eb6114a51a5370d86c1f.jpg</original>
+              </photo>
+          <photo photo_id="979555" file_name="8afa513c57026057d2f929e48d93dbd5.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/101757/thumbnail/8afa513c57026057d2f929e48d93dbd5.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/101757/original/8afa513c57026057d2f929e48d93dbd5.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-09-14</created_at>
+    <updated_at>2012-10-08</updated_at>
+    <expires_at>2012-11-07</expires_at>
+  </dates>
+</vehicle>
+</response>

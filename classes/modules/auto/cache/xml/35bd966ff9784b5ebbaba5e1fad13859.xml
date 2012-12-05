@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="103398" dealer_id="16" type="car">
+  <mark mark_id="105">Toyota</mark>
+  <model model_id="2706">RAV4 III</model>
+  <year>2008</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">2398</volume>
+          <power unit="hp">170</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="suv5">внедорожник (5-ти дв.)</type>
+    <color body_color_id="black">черный</color>
+  </body>
+  <mileage>
+    <value unit="km">15000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="950000">950000</value>
+          </price>
+  <pts_owner_count>один</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>    <asr/>    <cruise_control/>    <trip_computer/>    <parktronic/>    <esp/>    <light_alloy_wheels/>          <sensors>
+        <rain/>        <light/>      </sensors>
+              <headlights>
+        <xenon/>        <washer/>      </headlights>
+              <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                <tinted/>      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>электропривод</driver_adjustment>
+                      </seats>
+        <alarm_system/>    <central_lock/>    <airbag airbag_id="all">все</airbag>    <climate_control>климат 2-зонный</climate_control>    <multimedia>CD+NAVI+TV</multimedia>          <compartment>
+        <decoration>кожа</decoration>              </compartment>
+        <hatch/>          <description><![CDATA[Дилерский автомобиль. Покупался новым в Тойота центре Пискаревский в середине 2009 года. Один владелец. Отличное техническое и внешнее состояние. Не битый, не крашеный. Максимальная комплектация. Дополнительно установлено в Тойота центре: штатное мультимедийное устройство с функциями TV, DVD, USB, SD..., ксенон. Запуск автомобиля с кнопки START ENGINE. Комфортный доступ. Полный комплект ключей. Оригинальный таможенный ПТС. Два комплекта колес на оригинальных литых дисках.
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения.
+Множество кредитных программ как с КАСКО, так и без. Минимальный пакет документов, максимально быстрое рассмотрение заявки.
+
+Возможен зачет вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="995548" file_name="080440fbb29eed3311ce36abb754edc6.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103398/thumbnail/080440fbb29eed3311ce36abb754edc6.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103398/original/080440fbb29eed3311ce36abb754edc6.jpg</original>
+              </photo>
+          <photo photo_id="995549" file_name="d8c8f24f78cf8303024686a8749dbcee.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103398/thumbnail/d8c8f24f78cf8303024686a8749dbcee.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103398/original/d8c8f24f78cf8303024686a8749dbcee.jpg</original>
+              </photo>
+          <photo photo_id="995550" file_name="bea1656eb97e7c4312e572fb82fff6ce.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103398/thumbnail/bea1656eb97e7c4312e572fb82fff6ce.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103398/original/bea1656eb97e7c4312e572fb82fff6ce.jpg</original>
+              </photo>
+          <photo photo_id="995551" file_name="ddf661687760832b2d97245aa2e02d61.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103398/thumbnail/ddf661687760832b2d97245aa2e02d61.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103398/original/ddf661687760832b2d97245aa2e02d61.jpg</original>
+              </photo>
+          <photo photo_id="995558" file_name="7dcf8e07a36cf7499f2833a921ba53c2.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103398/thumbnail/7dcf8e07a36cf7499f2833a921ba53c2.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103398/original/7dcf8e07a36cf7499f2833a921ba53c2.jpg</original>
+              </photo>
+          <photo photo_id="995564" file_name="456535ff6ab38e5310bba2eee511f3b6.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103398/thumbnail/456535ff6ab38e5310bba2eee511f3b6.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103398/original/456535ff6ab38e5310bba2eee511f3b6.jpg</original>
+              </photo>
+          <photo photo_id="995565" file_name="2d6fd9fd3551fdd33d8fc12745e1a44a.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103398/thumbnail/2d6fd9fd3551fdd33d8fc12745e1a44a.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103398/original/2d6fd9fd3551fdd33d8fc12745e1a44a.jpg</original>
+              </photo>
+          <photo photo_id="995567" file_name="c88ed597dcdb06fda0101957c6c8211e.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103398/thumbnail/c88ed597dcdb06fda0101957c6c8211e.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103398/original/c88ed597dcdb06fda0101957c6c8211e.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-09-25</created_at>
+    <updated_at>2012-09-28</updated_at>
+    <expires_at>2012-10-25</expires_at>
+  </dates>
+</vehicle>
+</response>

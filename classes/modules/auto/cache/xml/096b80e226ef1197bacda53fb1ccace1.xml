@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response id="vehicle">
+  <vehicle vehicle_id="103772" dealer_id="16" type="car">
+  <mark mark_id="9">Audi</mark>
+  <model model_id="153">A8 (D3,4E)</model>
+  <year>2004</year>
+  <steering_wheel>
+    <place steering_wheel_place_id="left">левый</place>
+                  <power steering_wheel_power_id="hydro">гидро</power>
+                    <adjustment steering_wheel_adjustment_id="two">в двух плоскостях</adjustment>
+                  </steering_wheel>
+  <engine>
+    <type engine_type_id="petrol_injector">бензин инжектор</type>
+    <volume unit="cm3">4198</volume>
+          <power unit="hp">335</power>
+          </engine>
+  <drive>
+    <type drive_type_id="full_4wd">постоянный полный</type>
+  </drive>
+  <gearbox>
+    <type gearbox_type_id="automatic">автоматическая</type>
+  </gearbox>
+  <body>
+    <type body_type_id="sedan">седан</type>
+    <color body_color_id="black">черный</color>
+  </body>
+  <mileage>
+    <value unit="km">151000</value>
+      </mileage>
+  <condition condition_id="excellent">отличное</condition>
+      <price>
+    <value unit="rub" rub_price="590000">590000</value>
+          </price>
+  <pts_owner_count>два</pts_owner_count>
+  <availability availability_id="available">в наличии</availability>
+      <abs/>    <asr/>    <cruise_control/>    <trip_computer/>    <parktronic/>    <esp/>    <light_alloy_wheels/>          <sensors>
+        <rain/>        <light/>      </sensors>
+              <headlights>
+                <washer/>      </headlights>
+              <mirrors>
+        <power/>        <defroster/>      </mirrors>
+              <windows>
+                  <power window_power_id="all">все</power>
+                <tinted/>      </windows>
+              <seats>
+        <heater/>                  <driver_adjustment>с памятью</driver_adjustment>
+                          <passanger_adjustment>электропривод</passanger_adjustment>
+              </seats>
+        <alarm_system/>    <central_lock/>        <climate_control>климат 2-зонный</climate_control>    <multimedia>CD+NAVI+TV</multimedia>          <compartment>
+        <decoration>кожа</decoration>              </compartment>
+        <hatch/>          <description><![CDATA[Американец. Привезен из США в 2008 году. 2 владельца в РФ. Хорошее техническое состояние. Из недостатков: сечет глушитель (замена гофры), не горит ксеноновая лампа правой фары, деформирована правая петля крышки багажника (требует замены), неисправен датчик парковки. Салон не прокурен, не потерт.
+
+Возможна продажа в кредит:
+Первоначальный взнос от 10%
+сроком до 5 лет с возможностью досрочного погашения.
+Ставка от 11% годовых. Множество кредитных программ как с КАСКО, так и без.
+
+Возможен зачет Вашего автомобиля по системе Trade-in.]]></description>
+        <inspection_place><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, дом 12, центр &quot;АвтоВелоМото&quot;]]></inspection_place>
+          <contact>
+                  <name><![CDATA[АвтоВелоМото]]></name>
+                          <phone from="10" to="19">+7(812)544-80-35</phone>
+                          <phone from="10" to="19">+7(901)300-36-87</phone>
+                      </contact>
+    
+            <adress><![CDATA[Санкт-Петербург, пр. Маршала Блюхера, 12]]></adress>
+    
+  
+      <photos>          <photo photo_id="999369" file_name="2c0ba23decfe82d14ef8afb9a3038d46.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103772/thumbnail/2c0ba23decfe82d14ef8afb9a3038d46.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103772/original/2c0ba23decfe82d14ef8afb9a3038d46.jpg</original>
+              </photo>
+          <photo photo_id="999370" file_name="bf26211c04fdaead96bc6cab5f4c7418.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103772/thumbnail/bf26211c04fdaead96bc6cab5f4c7418.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103772/original/bf26211c04fdaead96bc6cab5f4c7418.jpg</original>
+              </photo>
+          <photo photo_id="999371" file_name="8c55928245a3802224f129a89140fbfd.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103772/thumbnail/8c55928245a3802224f129a89140fbfd.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103772/original/8c55928245a3802224f129a89140fbfd.jpg</original>
+              </photo>
+          <photo photo_id="999372" file_name="5d6a6f16a3984cc0e3004b1e34925037.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103772/thumbnail/5d6a6f16a3984cc0e3004b1e34925037.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103772/original/5d6a6f16a3984cc0e3004b1e34925037.jpg</original>
+              </photo>
+          <photo photo_id="999373" file_name="e3f4536f05eedf06d58dcb60a43002fe.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103772/thumbnail/e3f4536f05eedf06d58dcb60a43002fe.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103772/original/e3f4536f05eedf06d58dcb60a43002fe.jpg</original>
+              </photo>
+          <photo photo_id="999374" file_name="f4377d1a4be476ff1ed3e8c188ca67cd.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103772/thumbnail/f4377d1a4be476ff1ed3e8c188ca67cd.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103772/original/f4377d1a4be476ff1ed3e8c188ca67cd.jpg</original>
+              </photo>
+          <photo photo_id="999375" file_name="3c435b3873d6b00355b511b601f61e0a.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103772/thumbnail/3c435b3873d6b00355b511b601f61e0a.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103772/original/3c435b3873d6b00355b511b601f61e0a.jpg</original>
+              </photo>
+          <photo photo_id="999377" file_name="ecb08bb77a947152572cecb8e97e2efd.jpg">
+        <thumbnail>http://www.maxposter.ru/photo/16/103772/thumbnail/ecb08bb77a947152572cecb8e97e2efd.jpg</thumbnail>
+                  <original>http://www.maxposter.ru/photo/16/103772/original/ecb08bb77a947152572cecb8e97e2efd.jpg</original>
+              </photo>
+        </photos>    <dates>
+    <created_at>2012-09-27</created_at>
+    <updated_at>2012-09-27</updated_at>
+    <expires_at>2012-10-27</expires_at>
+  </dates>
+</vehicle>
+</response>
